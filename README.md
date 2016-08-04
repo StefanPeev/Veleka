@@ -1,2 +1,2 @@
 # Veleka
-Font Veleka | Шрифт Велекь
+Font Veleka | Шрифт Велека
