@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="compDigitFour" format="1">
+  <advance width="201"/>
+  <outline>
+    <contour>
+      <point x="190" y="63" type="line"/>
+      <point x="158" y="63" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="63" type="line"/>
+      <point x="11" y="63" type="line"/>
+      <point x="11" y="101" type="line"/>
+      <point x="119" y="260" type="line"/>
+      <point x="158" y="260" type="line"/>
+      <point x="158" y="93" type="line"/>
+      <point x="190" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="93" type="line"/>
+      <point x="125" y="220" type="line"/>
+      <point x="40" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>63</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>125</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

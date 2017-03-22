@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-22" y="689" type="curve" smooth="yes"/>
+      <point x="-22" y="670"/>
+      <point x="-31" y="658"/>
+      <point x="-46" y="648" type="curve" smooth="yes"/>
+      <point x="-196" y="551" type="line"/>
+      <point x="-266" y="551" type="line"/>
+      <point x="-130" y="707" type="line" smooth="yes"/>
+      <point x="-117" y="722"/>
+      <point x="-103" y="732"/>
+      <point x="-73" y="732" type="curve" smooth="yes"/>
+      <point x="-38" y="732"/>
+      <point x="-22" y="709"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>551</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-266</integer>
+            <key>width</key>
+            <integer>244</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

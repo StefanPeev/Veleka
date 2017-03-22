@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-274" y="-143" type="curve" smooth="yes"/>
+      <point x="-274" y="-174"/>
+      <point x="-299" y="-199"/>
+      <point x="-330" y="-199" type="curve" smooth="yes"/>
+      <point x="-361" y="-199"/>
+      <point x="-386" y="-174"/>
+      <point x="-386" y="-143" type="curve" smooth="yes"/>
+      <point x="-386" y="-112"/>
+      <point x="-362" y="-85"/>
+      <point x="-330" y="-85" type="curve" smooth="yes"/>
+      <point x="-299" y="-85"/>
+      <point x="-274" y="-111"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-199</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-386</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

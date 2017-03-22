@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DBB" format="1">
+  <advance width="312"/>
+  <unicode hex="1DBB"/>
+  <outline>
+    <contour>
+      <point x="295" y="383" type="line"/>
+      <point x="17" y="383" type="line"/>
+      <point x="17" y="422" type="line"/>
+      <point x="184" y="642" type="line"/>
+      <point x="85" y="642" type="line" smooth="yes"/>
+      <point x="79" y="642"/>
+      <point x="74" y="634"/>
+      <point x="73" y="629" type="curve" smooth="yes"/>
+      <point x="69" y="583" type="line"/>
+      <point x="22" y="583" type="line"/>
+      <point x="22" y="675" type="line"/>
+      <point x="286" y="675" type="line"/>
+      <point x="286" y="642" type="line"/>
+      <point x="115" y="418" type="line"/>
+      <point x="228" y="418" type="line" smooth="yes"/>
+      <point x="234" y="418"/>
+      <point x="241" y="427"/>
+      <point x="242" y="433" type="curve" smooth="yes"/>
+      <point x="250" y="483" type="line"/>
+      <point x="295" y="483" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>383</integer>
+            <key>width</key>
+            <integer>35</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>583</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>642</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>22</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>250</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 ﻿Font Veleka | Шрифт Велека
 
-Copyright (c) by Stefan Peev, Context Ltd, 2016 (context.bg[at]gmail.com, http://www.contextbg.net), under SIL license with Reserved Font Name "Veleka".
+Copyright (c) by Stefan Peev, Context Ltd, 2016 (context.bg[at]gmail.com, http://www.contextbg.net), under SIL license.
 Veleka is complete modification of Charis SIL, copyrighted (c) by SIL International, 1997-2014 under SIL license.
 Although Charis SIL is intended to be a multilingual font it has some limitations, which were the reason to create the Veleka font.
 
