@@ -1,3 +1,5 @@
+![Sample Image](/images/Veleka_01.png)
+
 # Veleka
 Font Veleka | Шрифт Велека
 
