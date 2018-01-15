@@ -1,0 +1,1 @@
+All releases of Lingustics Pro could be download at [Local Fonts](https://localfonts.eu/freefonts/bulgarian-cyrillic/veleka/). Please follow the link.
