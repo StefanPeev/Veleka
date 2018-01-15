@@ -15,3 +15,28 @@ Two ways to switch between the modern and traditional Cyrillic (either by using 
 Support for Open Type features: Latin All Caps (case + cpsp), Ligatures, Discretionary Ligatures, Fractions, Ordinals, Swash, Titling Alternates, Contextual Alternates, Small Caps, All Small Caps, Slashed Zero, Stylistic Set 01, Stylistic Set 02, Superscript/Superior, Subscript/Inferior, Numerator, Denominator, Proportional Oldstyle, Proportional Lining, Tabular Oldstyle, Tabular Lining, Default Figure Style.
 A lot of new glyphs in all the main Unicode ranges: Latin, Greek, Cyrillic, IPA etc.
 Glyphs are rearranged according to Unicode 9.0.
+
+## Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (if you have one) (E), web-address (if you have one) (W), twitter handle (if you have one) (T) and description (D).
+This list is in chronological order.
+
+### Project Manager
+
++ N: Stefan Peev
++ E: context.bg@gmail.com
++ W: https://localfonts.eu
++ D: Project Manager and Designer
+
+## License
+
+SIL Open Font License [OFL](documentation/OFL.txt)
+
+## Local Fonts Project
+
++ [Pliska](https://github.com/StefanPeev/Pliska)
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
++ [Coval](https://github.com/StefanPeev/coval)
++ [Veleka](https://github.com/StefanPeev/Veleka)
