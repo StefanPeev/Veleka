@@ -13,7 +13,7 @@ The Veleka font family is based on Charis SIL, copyrighted by SIL International,
 + A lot of new glyphs in all the main Unicode ranges: Latin, Greek, Cyrillic, IPA etc.
 + Glyphs are rearranged according to Unicode 9.0.
 
-## Examples
+### Examples
 
 See [images](/images/) and [Gallery](/images/gallery.md).
 
