@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="293"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="172.667" y="59.3333" type="curve" smooth="yes" name="n00"/>
+      <point x="172.667" y="-54.6667"/>
+      <point x="55.3333" y="-162.667"/>
+      <point x="-55" y="-172" type="curve"/>
+      <point x="-47.3333" y="-131.667" type="line"/>
+      <point x="32" y="-116"/>
+      <point x="79.6667" y="-73.3333"/>
+      <point x="93.6667" y="7" type="curve" name="n07"/>
+      <point x="31.3333" y="7" type="line"/>
+      <point x="22.3333" y="17"/>
+      <point x="18" y="30.6667"/>
+      <point x="18" y="44" type="curve" smooth="yes" name="n11"/>
+      <point x="18" y="88.6667"/>
+      <point x="58.3333" y="133"/>
+      <point x="103.667" y="133" type="curve" smooth="yes" name="n14"/>
+      <point x="150" y="133"/>
+      <point x="172.667" y="104"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-170</integer>
+        <key>width</key>
+        <integer>292</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>7</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>17</integer>
+        <key>width</key>
+        <integer>142</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7e12606a56f5065612da001908e033c0cdf5ffb853e224775b854ae098f15de5c193510073c84cf034316b06a3b84485b19b35a74d35d1dc5b4eeee02559ca9b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 7 126</string>
+          <string>vstem 18 154.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

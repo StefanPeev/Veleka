@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdblright" format="2">
+  <advance width="986"/>
+  <unicode hex="21D2"/>
+  <outline>
+    <contour>
+      <point x="960" y="279" type="line"/>
+      <point x="650" y="80" type="line"/>
+      <point x="622" y="126" type="line"/>
+      <point x="712" y="183" type="line"/>
+      <point x="40" y="183" type="line" name="n04"/>
+      <point x="40" y="230" type="line" name="n05"/>
+      <point x="786" y="230" type="line"/>
+      <point x="889" y="300" type="line"/>
+      <point x="786" y="370" type="line"/>
+      <point x="40" y="370" type="line" name="n09"/>
+      <point x="40" y="417" type="line" name="n10"/>
+      <point x="712" y="417" type="line"/>
+      <point x="622" y="474" type="line"/>
+      <point x="650" y="520" type="line"/>
+      <point x="960" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>183</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>370</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>920</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w986m960,279l650,80l622,126l712,183l40,183l40,230l786,230l889,300l786,370l40,370l40,417l712,417l622,474l650,520l960,321</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 183 47</string>
+          <string>hstem 370 47</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

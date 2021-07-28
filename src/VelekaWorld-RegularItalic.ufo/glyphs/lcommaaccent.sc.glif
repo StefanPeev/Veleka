@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent.sc" format="2">
+  <advance width="476"/>
+  <outline>
+    <component base="l.sc"/>
+    <contour>
+      <point x="226" y="-108" type="curve" smooth="yes" name="n00"/>
+      <point x="226" y="-191"/>
+      <point x="154" y="-239"/>
+      <point x="79" y="-253" type="curve"/>
+      <point x="84" y="-219" type="line"/>
+      <point x="138" y="-203"/>
+      <point x="158" y="-189"/>
+      <point x="169" y="-132" type="curve" name="n07"/>
+      <point x="117" y="-132" type="line"/>
+      <point x="111" y="-125"/>
+      <point x="108" y="-114"/>
+      <point x="108" y="-105" type="curve" smooth="yes" name="n11"/>
+      <point x="108" y="-71"/>
+      <point x="137" y="-48"/>
+      <point x="169" y="-48" type="curve" smooth="yes" name="n14"/>
+      <point x="206" y="-48"/>
+      <point x="226" y="-72"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-132</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>503</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>450</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>108</integer>
+        <key>width</key>
+        <integer>117</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a832d58f77b821d4e3ea75662a26b1501b5d96e232ad44af811004f5652d5c18f20c91b74cb0deaf74dd28e3092e7350dcc0c2875dae521b4cdd07b9e2873d93</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -132 84</string>
+          <string>vstem 108 118</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA75A" format="2">
+  <advance width="538"/>
+  <unicode hex="A75A"/>
+  <outline>
+    <contour>
+      <point x="60.3333" y="354.395" type="curve"/>
+      <point x="60.3333" y="415" type="line"/>
+      <point x="222.144" y="427.059"/>
+      <point x="333.128" y="480.902"/>
+      <point x="356.996" y="556.802" type="curve" name="n04"/>
+      <point x="404.787" y="606.449"/>
+      <point x="397.738" y="612.749"/>
+      <point x="341.98" y="575.496" type="curve" name="n07"/>
+      <point x="300.681" y="533.587"/>
+      <point x="217.305" y="485.162"/>
+      <point x="112" y="446.664" type="curve"/>
+      <point x="127.115" y="448.313"/>
+      <point x="130.103" y="462.392"/>
+      <point x="133.054" y="455.841" type="curve"/>
+      <point x="186.107" y="458.59"/>
+      <point x="280.574" y="471.717" name="hr01"/>
+      <point x="371.788" y="471.702" type="curve" smooth="yes" name="n16"/>
+      <point x="464.92" y="471.7"/>
+      <point x="520.114" y="429.853"/>
+      <point x="522.93" y="361.339" type="curve"/>
+      <point x="522.589" y="282.401"/>
+      <point x="455.484" y="207.228"/>
+      <point x="353.667" y="177.391" type="curve"/>
+      <point x="364.088" y="161.611"/>
+      <point x="371.888" y="136.757"/>
+      <point x="371.333" y="96.6667" type="curve" name="n25"/>
+      <point x="332.659" y="57.1773"/>
+      <point x="332.219" y="49.6556"/>
+      <point x="384.05" y="72.0174" type="curve"/>
+      <point x="384.169" y="102.805"/>
+      <point x="380.972" y="114.132"/>
+      <point x="362.667" y="117" type="curve" name="n31"/>
+      <point x="356.667" y="99.6667" type="line" name="n32"/>
+      <point x="370.68" y="92.6991"/>
+      <point x="406.318" y="104.553"/>
+      <point x="390.397" y="153.922" type="curve" name="n35"/>
+      <point x="322.084" y="181.333"/>
+      <point x="270.019" y="222.527"/>
+      <point x="225.256" y="288.735" type="curve" name="n38"/>
+      <point x="194.412" y="346.365"/>
+      <point x="148.806" y="362.861"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>246</integer>
+        <key>width</key>
+        <integer>22</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>623</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>213</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>390</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b1f0704c6ca0c5210cc1580709663bbe91c9edebc15570637658255a15c3e2c0143ccd4f3030fab6c048afb431e33fac802b4c97c5f6e46a99cd3268b1a48051</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 288.73 268.07</string>
+          <string>vstem 341.98 48.42</string>
+          <string>hstem 99.67 17.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 96.67 375.04</string>
+          <string>vstem 341.98 48.42</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 99.67 17.33</string>
+          <string>vstem 341.98 48.42</string>
+          <string>hstem 288.73 268.07</string>
+        </array>
+        <key>pointTag</key>
+        <string>n31</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

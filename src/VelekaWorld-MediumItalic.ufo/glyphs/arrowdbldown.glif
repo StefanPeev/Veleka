@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdbldown" format="2">
+  <advance width="500"/>
+  <unicode hex="21D3"/>
+  <outline>
+    <contour>
+      <point x="470" y="110" type="line"/>
+      <point x="271" y="-200" type="line" name="n01"/>
+      <point x="229" y="-200" type="line"/>
+      <point x="30" y="110" type="line"/>
+      <point x="76" y="138" type="line"/>
+      <point x="133" y="48" type="line"/>
+      <point x="133" y="720" type="line" name="n06"/>
+      <point x="180" y="720" type="line" name="n07"/>
+      <point x="180" y="-26" type="line"/>
+      <point x="250" y="-129" type="line"/>
+      <point x="320" y="-26" type="line"/>
+      <point x="320" y="720" type="line" name="n11"/>
+      <point x="367" y="720" type="line" name="n12"/>
+      <point x="367" y="48" type="line"/>
+      <point x="424" y="138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-200</integer>
+        <key>width</key>
+        <integer>920</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>133</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>320</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m470,110l271,-200l229,-200l30,110l76,138l133,48l133,720l180,720l180,-26l250,-129l320,-26l320,720l367,720l367,48l424,138</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -179 -21</string>
+          <string>hstem 720 -20</string>
+          <string>vstem 133 47</string>
+          <string>vstem 320 47</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01B1" format="2">
+  <advance width="722"/>
+  <unicode hex="01B1"/>
+  <outline>
+    <contour>
+      <point x="722" y="671" type="line" name="n00"/>
+      <point x="711" y="616.333" type="line"/>
+      <point x="650" y="609.333" type="line"/>
+      <point x="636.667" y="608.333"/>
+      <point x="630.667" y="599.667"/>
+      <point x="635.333" y="589" type="curve"/>
+      <point x="635.333" y="589"/>
+      <point x="654" y="540.667"/>
+      <point x="657" y="534" type="curve"/>
+      <point x="673" y="484.333"/>
+      <point x="690" y="431.333"/>
+      <point x="690" y="378.667" type="curve" smooth="yes" name="n11"/>
+      <point x="690" y="182"/>
+      <point x="523" y="-16"/>
+      <point x="307" y="-16" type="curve" smooth="yes" name="n14"/>
+      <point x="143" y="-16"/>
+      <point x="48" y="88.6667"/>
+      <point x="48" y="237.333" type="curve" smooth="yes" name="n17"/>
+      <point x="48" y="328"/>
+      <point x="94" y="417"/>
+      <point x="144" y="492.667" type="curve"/>
+      <point x="150.333" y="503"/>
+      <point x="215.667" y="589"/>
+      <point x="215.667" y="589" type="curve"/>
+      <point x="222.667" y="599"/>
+      <point x="221.667" y="610.333"/>
+      <point x="206.667" y="611.333" type="curve" smooth="yes"/>
+      <point x="149.667" y="616.333" type="line"/>
+      <point x="162.333" y="671" type="line"/>
+      <point x="350.667" y="671" type="line"/>
+      <point x="260" y="555.667"/>
+      <point x="187" y="380.667"/>
+      <point x="187" y="237.333" type="curve" smooth="yes" name="n32"/>
+      <point x="187" y="149"/>
+      <point x="216" y="55"/>
+      <point x="319" y="55" type="curve" smooth="yes" name="n35"/>
+      <point x="502" y="55"/>
+      <point x="570" y="333.333"/>
+      <point x="570" y="484" type="curve" smooth="yes" name="n38"/>
+      <point x="570" y="542.667"/>
+      <point x="555" y="613.667"/>
+      <point x="533.333" y="671" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>612</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>616</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>48</integer>
+        <key>width</key>
+        <integer>125</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>570</integer>
+        <key>width</key>
+        <integer>106</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1e4938dda8f6ab9ce09a15f7d080f988cefc1b7933def51cbb8093db7487e1433561a9ed6d35ebec73b1edf3b0b0c61e5cf8efdd1f99cd156c27cc081240cca4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -16 71</string>
+          <string>hstem 671 -20</string>
+          <string>vstem 48 139</string>
+          <string>vstem 570 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

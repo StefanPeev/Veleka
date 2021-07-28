@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01B7.RevSigmaStyle" format="2">
+  <advance width="547"/>
+  <unicode hex="F217"/>
+  <outline>
+    <contour>
+      <point x="600" y="671" type="line"/>
+      <point x="591" y="625" type="line"/>
+      <point x="356" y="348" type="line"/>
+      <point x="494" y="44" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="-24" y="0" type="line" name="n05"/>
+      <point x="12" y="185" type="line" name="n06"/>
+      <point x="71" y="185" type="line"/>
+      <point x="65" y="69" type="line"/>
+      <point x="65" y="59"/>
+      <point x="70" y="51" name="hr02"/>
+      <point x="79" y="51" type="curve" smooth="yes" name="n11"/>
+      <point x="374" y="51" type="line"/>
+      <point x="239" y="348" type="line"/>
+      <point x="470" y="621" type="line"/>
+      <point x="211" y="621" type="line" smooth="yes" name="n15"/>
+      <point x="202" y="621"/>
+      <point x="194" y="613"/>
+      <point x="190" y="604" type="curve"/>
+      <point x="157" y="511" type="line" name="n19"/>
+      <point x="98" y="511" type="line"/>
+      <point x="129" y="671" type="line" name="n21"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>51</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>621</integer>
+        <key>width</key>
+        <integer>50</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>624</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>35f18b28f8f17325cd9f66e4abf7e53bc47e7e6860e1f371ed91f318c132e0b590333687fe9e50e7ce036c6f371b9839c4eafd7c6f22d4f9bca180b3042d50e6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 621 50</string>
+          <string>hstem 0 51</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 185</string>
+          <string>hstem 511 160</string>
+        </array>
+        <key>pointTag</key>
+        <string>n06</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 51</string>
+          <string>hstem 621 50</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 621 50</string>
+          <string>hstem 0 51</string>
+        </array>
+        <key>pointTag</key>
+        <string>n19</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="existential" format="2">
+  <advance width="561"/>
+  <unicode hex="2203"/>
+  <outline>
+    <contour>
+      <point x="73" y="664" type="line" name="n00"/>
+      <point x="488" y="664" type="line"/>
+      <point x="488" y="0" type="line" name="n02"/>
+      <point x="73" y="0" type="line" name="n03"/>
+      <point x="73" y="68" type="line" name="n04"/>
+      <point x="410" y="68" type="line" name="n05"/>
+      <point x="410" y="298" type="line" name="n06"/>
+      <point x="83" y="298" type="line"/>
+      <point x="83" y="366" type="line"/>
+      <point x="410" y="366" type="line" name="n09"/>
+      <point x="410" y="596" type="line"/>
+      <point x="73" y="596" type="line" name="n11"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>298</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>596</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>410</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w561m73,664l488,664l488,0l73,0l73,68l410,68l410,298l83,298l83,366l410,366l410,596l73,596</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 68</string>
+          <string>hstem 298 68</string>
+          <string>hstem 596 68</string>
+          <string>vstem 410 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

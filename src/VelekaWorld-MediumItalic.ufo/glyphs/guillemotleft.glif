@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="408"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="123.667" y="0" type="line" name="n00"/>
+      <point x="19.3333" y="215" type="line"/>
+      <point x="29.3333" y="266" type="line"/>
+      <point x="221.333" y="482" type="line" name="n03"/>
+      <point x="274" y="482" type="line"/>
+      <point x="110.667" y="241" type="line"/>
+      <point x="176" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.333" y="0" type="line"/>
+      <point x="189.333" y="215" type="line"/>
+      <point x="199.667" y="266" type="line"/>
+      <point x="392.333" y="482" type="line"/>
+      <point x="444.667" y="482" type="line"/>
+      <point x="281" y="241" type="line"/>
+      <point x="346.667" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>472</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>20</integer>
+        <key>width</key>
+        <integer>418</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>af5af4cf45ffeda0a1905427b0d4f0504f46aeaa742f85d225ba5c0402b6928e51800f2fb428aabb82d63a00f46a0d15e2b1768063a6921f6fefcc2bae3d93f1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 482 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="237"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="164" y="-112" type="curve" smooth="yes" name="n00"/>
+      <point x="164" y="-181"/>
+      <point x="99" y="-223"/>
+      <point x="23" y="-223" type="curve" smooth="yes" name="n03"/>
+      <point x="-7" y="-223"/>
+      <point x="-43" y="-215"/>
+      <point x="-57" y="-211" type="curve"/>
+      <point x="-48" y="-171" type="line"/>
+      <point x="-33" y="-175"/>
+      <point x="-5" y="-182"/>
+      <point x="17" y="-182" type="curve" smooth="yes" name="n10"/>
+      <point x="35" y="-182"/>
+      <point x="83" y="-174"/>
+      <point x="83" y="-135" type="curve" smooth="yes" name="n13"/>
+      <point x="83" y="-115"/>
+      <point x="65" y="-108"/>
+      <point x="50" y="-108" type="curve" smooth="yes"/>
+      <point x="44" y="-108"/>
+      <point x="39" y="-111"/>
+      <point x="18" y="-121" type="curve"/>
+      <point x="46" y="24" type="line" name="n20"/>
+      <point x="98" y="24" type="line"/>
+      <point x="82" y="-61" type="line"/>
+      <point x="87" y="-60"/>
+      <point x="92" y="-59" name="hr01"/>
+      <point x="97" y="-59" type="curve" smooth="yes" name="n25"/>
+      <point x="141" y="-59"/>
+      <point x="164" y="-76"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-223</integer>
+        <key>width</key>
+        <integer>41</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-108</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>83</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d20740eead43fe76021660bd5fa3361d60aebd4289bda3cbc6b6d6a34055bdfdb9351fbb0258ade9a8be2ed9f043b182597ac1a78b47e8861e078fe0f3c90667</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 83 81</string>
+          <string>hstem -223 41</string>
+          <string>hstem 24 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -223 164</string>
+          <string>vstem 83 81</string>
+          <string>hstem 24 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

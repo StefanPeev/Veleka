@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA787.sc" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="619" y="465.333" type="line" name="n00"/>
+      <point x="326" y="465.333" type="line"/>
+      <point x="237" y="405.667"/>
+      <point x="173.667" y="312"/>
+      <point x="173.667" y="197.333" type="curve" smooth="yes" name="n04"/>
+      <point x="173.667" y="92.3333"/>
+      <point x="259" y="48.6667"/>
+      <point x="335.333" y="48.6667" type="curve" smooth="yes" name="n07"/>
+      <point x="398" y="48.6667"/>
+      <point x="477.667" y="83.3333"/>
+      <point x="539" y="148.333" type="curve"/>
+      <point x="538.333" y="69.6667" type="line"/>
+      <point x="494" y="27.6667"/>
+      <point x="406" y="-13"/>
+      <point x="316" y="-13" type="curve" smooth="yes" name="n14"/>
+      <point x="120.667" y="-13"/>
+      <point x="52.3333" y="106"/>
+      <point x="52.3333" y="206.333" type="curve" smooth="yes" name="n17"/>
+      <point x="52.3333" y="312.667"/>
+      <point x="138.333" y="404"/>
+      <point x="245.333" y="465.333" type="curve"/>
+      <point x="97.6667" y="465.333" type="line"/>
+      <point x="97.6667" y="547" type="line"/>
+      <point x="619" y="547" type="line" name="n23"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>53</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>482</integer>
+        <key>width</key>
+        <integer>65</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>49</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>aaf5d49134efe1fd7052b51d5612601ff09c8eea4a4503e1c3926efbfc6a19a46b4e2a6100777b8870af67ad672d47a32fe36dc5f444d95bfa60c141721ae8b8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -13 61.67</string>
+          <string>hstem 465.33 81.67</string>
+          <string>vstem 52.33 121.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

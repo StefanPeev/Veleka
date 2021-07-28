@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA746" format="2">
+  <advance width="653"/>
+  <unicode hex="A746"/>
+  <outline>
+    <contour>
+      <point x="618" y="185" type="line"/>
+      <point x="582" y="0" type="line" name="n01"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="42" type="line"/>
+      <point x="133.782" y="43.1881"/>
+      <point x="178" y="47"/>
+      <point x="178" y="47" type="curve"/>
+      <point x="191" y="48"/>
+      <point x="200" y="54"/>
+      <point x="202" y="66" type="curve" smooth="yes"/>
+      <point x="253" y="332" type="line"/>
+      <point x="108" y="278" type="line"/>
+      <point x="171" y="604" type="line" smooth="yes"/>
+      <point x="173" y="615"/>
+      <point x="169" y="623"/>
+      <point x="152" y="624" type="curve"/>
+      <point x="152" y="624"/>
+      <point x="109.786" y="627.769"/>
+      <point x="96" y="629" type="curve"/>
+      <point x="96" y="671" type="line" name="n19"/>
+      <point x="356" y="671" type="line"/>
+      <point x="356" y="629" type="line"/>
+      <point x="341.006" y="627.729"/>
+      <point x="297" y="624"/>
+      <point x="297" y="624" type="curve"/>
+      <point x="282" y="623"/>
+      <point x="274" y="614"/>
+      <point x="272" y="604" type="curve" smooth="yes"/>
+      <point x="227" y="367" type="line"/>
+      <point x="372" y="420" type="line"/>
+      <point x="301" y="50" type="line"/>
+      <point x="498" y="50" type="line" smooth="yes" name="n31"/>
+      <point x="511" y="50"/>
+      <point x="519.221" y="57.9285"/>
+      <point x="523" y="70" type="curve" smooth="yes"/>
+      <point x="559" y="185" type="line" name="n35"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>44</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>50</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>626</integer>
+        <key>width</key>
+        <integer>44</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>96</integer>
+        <key>width</key>
+        <integer>522</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2536e35b5002f3d8bb6d53bf601e667ddf92b67e749fbdf9d72f33b5198f2ad8cb0df500f8635d331c0bf1894aebc00e8a94a81e9ca43a513c417bc120a7248c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50</string>
+          <string>hstem 671 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 185</string>
+          <string>hstem 671 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>n35</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z.SItal" format="2">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="364.333" y="0" type="line" name="n00"/>
+      <point x="-18.6667" y="0" type="line"/>
+      <point x="-6.33333" y="61" type="line"/>
+      <point x="302.667" y="432.333" type="line"/>
+      <point x="161.667" y="432.333" type="line" smooth="yes" name="n04"/>
+      <point x="152" y="432.333"/>
+      <point x="141.679" y="420.329"/>
+      <point x="139.333" y="411.333" type="curve"/>
+      <point x="116.333" y="335.333" type="line" name="n08"/>
+      <point x="57" y="335.333" type="line"/>
+      <point x="87.6667" y="486" type="line" name="n10"/>
+      <point x="449.333" y="486" type="line"/>
+      <point x="439" y="435" type="line"/>
+      <point x="122" y="55.3333" type="line"/>
+      <point x="285" y="55.3333" type="line" smooth="yes" name="n14"/>
+      <point x="293" y="55.3333"/>
+      <point x="306.667" y="69.3333"/>
+      <point x="309.333" y="79.3333" type="curve"/>
+      <point x="338" y="162.333" type="line" name="n18"/>
+      <point x="396.333" y="162.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>435</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-18</integer>
+        <key>width</key>
+        <integer>447</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c48ef364f52e8cd9b6db5913f87ede0cc75ffadf0eaaff919a0e01222ee6f92d0412c1371cbb3b3dc1c98fc596205321a0ac603bd6c4b6664beaf4b2758039bd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55.33</string>
+          <string>hstem 432.33 53.67</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 335.33 150.67</string>
+          <string>hstem 0 55.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>n08</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55.33</string>
+          <string>hstem 335.33 150.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n18</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

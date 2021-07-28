@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave.sc" format="2">
+  <advance width="539"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="450.333" y="618" type="line"/>
+      <point x="383.667" y="618" type="line"/>
+      <point x="227.333" y="709" type="line" smooth="yes"/>
+      <point x="213.333" y="717.333"/>
+      <point x="203" y="735.667"/>
+      <point x="203" y="751" type="curve" smooth="yes"/>
+      <point x="203" y="773.667"/>
+      <point x="215.667" y="800.333" name="n07"/>
+      <point x="256" y="800.333" type="curve" smooth="yes"/>
+      <point x="283.333" y="800.333"/>
+      <point x="295.667" y="792.667"/>
+      <point x="315" y="771.333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>201</integer>
+        <key>width</key>
+        <integer>230</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8168b09972e68cdfb4c26e0df60c633b8c0d82d4702e6fa8f1bc6c12edd263e956deef82eee5df37203ce96f5ad5c82b8d6ef06966bfa7c44f216e24b117a0e2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 800.33 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2071.Dotless" format="2">
+  <advance width="201"/>
+  <outline>
+    <contour>
+      <point x="256" y="403" type="line"/>
+      <point x="217" y="383"/>
+      <point x="184" y="376"/>
+      <point x="146" y="376" type="curve" smooth="yes" name="n03"/>
+      <point x="99" y="376"/>
+      <point x="82" y="409"/>
+      <point x="88" y="438" type="curve" smooth="yes"/>
+      <point x="129" y="637" type="line"/>
+      <point x="74" y="643" type="line"/>
+      <point x="74" y="664" type="line"/>
+      <point x="181" y="683" type="line" name="n10"/>
+      <point x="227" y="683" type="line"/>
+      <point x="176" y="443" type="line" smooth="yes"/>
+      <point x="173" y="428"/>
+      <point x="173" y="415"/>
+      <point x="189" y="415" type="curve" smooth="yes" name="n15"/>
+      <point x="196" y="415"/>
+      <point x="232" y="424"/>
+      <point x="256" y="436" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>376</integer>
+        <key>width</key>
+        <integer>33</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>674</integer>
+        <key>width</key>
+        <integer>6</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>73</integer>
+        <key>width</key>
+        <integer>154</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>30158a0ba610a86e3c70a09637d5d625590bb319beb1c37c16c37a3cfe0731ed764190cee155749f7f7aa869c612969a6a1e5eb9fadfecd3e283f76d73335204</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 376 39</string>
+          <string>hstem 683 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

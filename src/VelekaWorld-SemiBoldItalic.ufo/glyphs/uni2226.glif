@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2226" format="2">
+  <advance width="515"/>
+  <unicode hex="2226"/>
+  <outline>
+    <contour>
+      <point x="1.66667" y="53.6667" type="line"/>
+      <point x="115.333" y="167.333" type="line"/>
+      <point x="115.333" y="796" type="line" name="n02"/>
+      <point x="193" y="796" type="line" name="n03"/>
+      <point x="193" y="244.333" type="line"/>
+      <point x="322" y="373.333" type="line"/>
+      <point x="322" y="796" type="line" name="n06"/>
+      <point x="399" y="796" type="line" name="n07"/>
+      <point x="399" y="450.333" type="line"/>
+      <point x="473" y="524.333" type="line"/>
+      <point x="513" y="484.333" type="line"/>
+      <point x="399" y="370" type="line"/>
+      <point x="399" y="-258" type="line" name="n12"/>
+      <point x="322" y="-258" type="line"/>
+      <point x="322" y="292.333" type="line"/>
+      <point x="193" y="164.333" type="line"/>
+      <point x="193" y="-258" type="line"/>
+      <point x="115.333" y="-258" type="line"/>
+      <point x="115.333" y="87.3333" type="line"/>
+      <point x="41.6667" y="13" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-258</integer>
+        <key>width</key>
+        <integer>1054</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>132</integer>
+        <key>width</key>
+        <integer>61</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>322</integer>
+        <key>width</key>
+        <integer>61</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>80a4ed750613e3959d0dcb78f4fb633241d9494a299fa94dc5503f43c077b3ae9665603e56ba06e0a5209455d6bf7671e2e4a5f7447b456e20a41d7c1a72c4ea</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -237 -21</string>
+          <string>hstem 796 -20</string>
+          <string>vstem 115.33 77.67</string>
+          <string>vstem 322 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02B5" format="2">
+  <advance width="329"/>
+  <unicode hex="02B5"/>
+  <outline>
+    <contour>
+      <point x="320" y="282.667" type="curve" smooth="yes" name="n00"/>
+      <point x="320" y="260"/>
+      <point x="294.667" y="246" name="n02"/>
+      <point x="263.667" y="246" type="curve" smooth="yes"/>
+      <point x="183.667" y="246"/>
+      <point x="147.333" y="287.667"/>
+      <point x="147.333" y="339.667" type="curve" smooth="yes" name="n06"/>
+      <point x="147.333" y="350.333"/>
+      <point x="148.667" y="361"/>
+      <point x="150.667" y="373.333" type="curve"/>
+      <point x="150.667" y="373.333"/>
+      <point x="160.771" y="417.972"/>
+      <point x="163.667" y="430.333" type="curve"/>
+      <point x="138.667" y="397.667"/>
+      <point x="104.333" y="376"/>
+      <point x="67.3333" y="376" type="curve" smooth="yes" name="n15"/>
+      <point x="34.6667" y="376"/>
+      <point x="23" y="400.333"/>
+      <point x="23" y="417.667" type="curve" smooth="yes"/>
+      <point x="23" y="445.333"/>
+      <point x="43.6667" y="451.667"/>
+      <point x="82" y="451.667" type="curve" name="n21"/>
+      <point x="98.6667" y="422" type="line"/>
+      <point x="133.667" y="437"/>
+      <point x="174.742" y="484.65"/>
+      <point x="183" y="520" type="curve" smooth="yes"/>
+      <point x="217.667" y="673.333" type="line" name="n26"/>
+      <point x="286.333" y="673.333" type="line"/>
+      <point x="219.667" y="371.333" type="line" smooth="yes"/>
+      <point x="215.667" y="352.333"/>
+      <point x="213" y="334.667" name="hr01"/>
+      <point x="213" y="319" type="curve" smooth="yes" name="n31"/>
+      <point x="213" y="300.333"/>
+      <point x="218.667" y="282.333"/>
+      <point x="233" y="277.667" type="curve"/>
+      <point x="290.667" y="319.333" type="line"/>
+      <point x="308" y="313.333"/>
+      <point x="320" y="303" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>246</integer>
+        <key>width</key>
+        <integer>6</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>376</integer>
+        <key>width</key>
+        <integer>6</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>376</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>667</integer>
+        <key>width</key>
+        <integer>6</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>147</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>761cd2fca73f17d22bb030da9e5a02033a3e25503ddde6fd6ffdf635f650f9c57f22077e2fe018c5337745a20c767290390a6669f69cb826909316d7d9119c0e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 147.33 172.67</string>
+          <string>hstem 267 -21</string>
+          <string>hstem 376 75.67</string>
+          <string>hstem 673.33 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 147.33 65.67</string>
+          <string>hstem 376 75.67</string>
+          <string>hstem 267 -21</string>
+          <string>hstem 673.33 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 147.33 172.67</string>
+          <string>hstem 376 75.67</string>
+          <string>hstem 267 -21</string>
+          <string>hstem 673.33 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.sc" format="2">
+  <advance width="513"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="407" y="708" type="curve" smooth="yes" name="n00"/>
+      <point x="407" y="677"/>
+      <point x="382" y="652"/>
+      <point x="351" y="652" type="curve" smooth="yes" name="n03"/>
+      <point x="320" y="652"/>
+      <point x="295" y="677"/>
+      <point x="295" y="708" type="curve" smooth="yes" name="n06"/>
+      <point x="295" y="739"/>
+      <point x="319" y="766"/>
+      <point x="351" y="766" type="curve" smooth="yes" name="n09"/>
+      <point x="382" y="766"/>
+      <point x="407" y="740"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>652</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>295</integer>
+        <key>width</key>
+        <integer>112</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w513m407,708c407,677 382,652 351,652c320,652 295,677 295,708c295,739 319,766 351,766c382,766 407,740 407,708</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 652 114</string>
+          <string>vstem 295 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

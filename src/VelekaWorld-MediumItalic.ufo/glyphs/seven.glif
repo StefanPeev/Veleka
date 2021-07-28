@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+  <advance width="570"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="618.333" y="671" type="line"/>
+      <point x="610" y="626.333" type="line"/>
+      <point x="155" y="-12.3333" type="line"/>
+      <point x="148.667" y="-37" type="line" name="n03"/>
+      <point x="34.6667" y="-37" type="line"/>
+      <point x="480" y="587" type="line"/>
+      <point x="195.333" y="587" type="line" name="n06"/>
+      <point x="163.333" y="497.333" type="line" name="n07"/>
+      <point x="93.6667" y="497.333" type="line"/>
+      <point x="128.333" y="671" type="line" name="n09"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>590</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>36</integer>
+        <key>width</key>
+        <integer>568</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w570m618.33,671l610,626.33l155,-12.33l148.67,-37l34.67,-37l480,587l195.33,587l163.33,497.33l93.67,497.33l128.33,671</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 587 84</string>
+          <string>hstem -16 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 587 84</string>
+          <string>hstem -16 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>n07</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

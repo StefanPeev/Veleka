@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.sc" format="2">
+  <advance width="515"/>
+  <outline>
+    <component base="l.sc"/>
+    <contour>
+      <point x="529" y="616" type="curve" smooth="yes" name="n00"/>
+      <point x="529" y="532"/>
+      <point x="430" y="480"/>
+      <point x="359" y="467" type="curve"/>
+      <point x="368" y="507" type="line"/>
+      <point x="401" y="516"/>
+      <point x="446" y="544"/>
+      <point x="454" y="581" type="curve" name="n07"/>
+      <point x="391" y="581" type="line"/>
+      <point x="382" y="590"/>
+      <point x="377" y="602"/>
+      <point x="377" y="614" type="curve" smooth="yes" name="n11"/>
+      <point x="377" y="658"/>
+      <point x="419" y="683"/>
+      <point x="458" y="683" type="curve" smooth="yes" name="n14"/>
+      <point x="499" y="683"/>
+      <point x="529" y="658"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>503</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>588</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>450</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>344</integer>
+        <key>width</key>
+        <integer>116</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>73774ba143478328c834c7a8e15054e0468b78083741748566d48cb10390afea32e30a04fa345cc92e3229dce81b606c7d1528b8f0d08d01d5496f2f01b2a4fd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 581 102</string>
+          <string>vstem 377 152</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

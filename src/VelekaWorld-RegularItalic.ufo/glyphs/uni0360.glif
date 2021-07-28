@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0360" format="2">
+  <unicode hex="0360"/>
+  <outline>
+    <contour>
+      <point x="634" y="883" type="line"/>
+      <point x="606" y="831"/>
+      <point x="525" y="776"/>
+      <point x="397" y="776" type="curve" smooth="yes" name="n03"/>
+      <point x="157" y="776"/>
+      <point x="83" y="849"/>
+      <point x="-155" y="849" type="curve" smooth="yes" name="n06"/>
+      <point x="-273" y="849"/>
+      <point x="-329" y="796"/>
+      <point x="-353" y="756" type="curve"/>
+      <point x="-380" y="792" type="line"/>
+      <point x="-349" y="848"/>
+      <point x="-285" y="907"/>
+      <point x="-150" y="907" type="curve" smooth="yes" name="n13"/>
+      <point x="106" y="907"/>
+      <point x="165" y="833"/>
+      <point x="404" y="833" type="curve" smooth="yes" name="n16"/>
+      <point x="513" y="833"/>
+      <point x="587" y="881"/>
+      <point x="606" y="919" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>776</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>849</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-380</integer>
+        <key>width</key>
+        <integer>1014</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d0f2ce0e12e4472c8220ecb4b4fa7c52a62a4f399bf58655d42fe9cf35dbcdddf0c5eb8f76d0ba2a227585f48f7c5992545b5accb4fe9fbe6c2dc2df5aa33709</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 776 57</string>
+          <string>hstem 849 58</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

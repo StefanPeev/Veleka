@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C" format="2">
+  <unicode hex="030C"/>
+  <anchor x="-180" y="560" name="_top"/>
+  <outline>
+    <contour>
+      <point x="22" y="720" type="line" name="n00"/>
+      <point x="-144" y="551" type="line" name="n01"/>
+      <point x="-223" y="551" type="line"/>
+      <point x="-321" y="720" type="line"/>
+      <point x="-251" y="720" type="line"/>
+      <point x="-168" y="628" type="line"/>
+      <point x="-49" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>551</integer>
+        <key>width</key>
+        <integer>169</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-321</integer>
+        <key>width</key>
+        <integer>343</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m22,720l-144,551l-223,551l-321,720l-251,720l-168,628l-49,720</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 572 -21</string>
+          <string>hstem 720 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA706" format="2">
+  <advance width="202"/>
+  <unicode hex="A706"/>
+  <outline>
+    <contour>
+      <point x="13" y="-93" type="curve" smooth="yes"/>
+      <point x="-52" y="-93" type="line" name="n01"/>
+      <point x="-46" y="-60" type="line" name="n02"/>
+      <point x="25" y="-60" type="line" smooth="yes"/>
+      <point x="84" y="-60"/>
+      <point x="100" y="-41"/>
+      <point x="108" y="0" type="curve" smooth="yes"/>
+      <point x="115" y="41"/>
+      <point x="107" y="60"/>
+      <point x="48" y="60" type="curve" smooth="yes" name="n09"/>
+      <point x="-23" y="60" type="line"/>
+      <point x="-17" y="93" type="line"/>
+      <point x="48" y="93" type="line" smooth="yes" name="n12"/>
+      <point x="134" y="93"/>
+      <point x="153" y="61"/>
+      <point x="142" y="0" type="curve" smooth="yes"/>
+      <point x="130" y="-61"/>
+      <point x="99" y="-93"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-93</integer>
+        <key>width</key>
+        <integer>34</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>34</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>110</integer>
+        <key>width</key>
+        <integer>35</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>71a453dc063a5c7d0600fcd360d3a929cb40733943d1b3606d60f188b9378d7ebd6e1d0ca926888d40ead7ee7cf60ddb56b9a6a3f2342d558188be90351d120e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -93 33</string>
+          <string>hstem 60 33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

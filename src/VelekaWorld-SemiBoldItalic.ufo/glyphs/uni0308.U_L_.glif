@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308.UL" format="2">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="415.667" y="649.667" type="curve" smooth="yes" name="n00"/>
+      <point x="415.667" y="614.333"/>
+      <point x="387" y="585"/>
+      <point x="351.667" y="585" type="curve" smooth="yes" name="n03"/>
+      <point x="316.333" y="585"/>
+      <point x="288" y="614.333"/>
+      <point x="288" y="649.667" type="curve" smooth="yes" name="n06"/>
+      <point x="288" y="684.333"/>
+      <point x="317" y="714"/>
+      <point x="351.667" y="714" type="curve" smooth="yes" name="n09"/>
+      <point x="387" y="714"/>
+      <point x="415.667" y="685"/>
+    </contour>
+    <contour>
+      <point x="206.667" y="649.667" type="curve" smooth="yes" name="n12"/>
+      <point x="206.667" y="614.333"/>
+      <point x="177.667" y="585"/>
+      <point x="142.333" y="585" type="curve" smooth="yes"/>
+      <point x="107.333" y="585"/>
+      <point x="78.3333" y="614.333"/>
+      <point x="78.3333" y="649.333" type="curve" smooth="yes" name="n18"/>
+      <point x="78.3333" y="684.333"/>
+      <point x="107.333" y="714"/>
+      <point x="142.333" y="714" type="curve" smooth="yes"/>
+      <point x="177.667" y="714"/>
+      <point x="206.667" y="685"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>585</integer>
+        <key>width</key>
+        <integer>111</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>109</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>284</integer>
+        <key>width</key>
+        <integer>109</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8f55fb66fea058e95489cdbc0cb893cee2849f00120ef5ae2926a53669b925f08b2c173419941f119ade95078928f5030e48e27de5f7139ffe5bd7a52b5ffdfd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 585 129</string>
+          <string>vstem 78.33 128.33</string>
+          <string>vstem 288 127.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

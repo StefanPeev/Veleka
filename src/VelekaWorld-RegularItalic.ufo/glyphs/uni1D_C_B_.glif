@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DCB" format="2">
+  <unicode hex="1DCB"/>
+  <outline>
+    <contour>
+      <point x="-13" y="652" type="line" name="n00"/>
+      <point x="-26" y="586" type="line" name="n01"/>
+      <point x="-278" y="586" type="line"/>
+      <point x="-308" y="545"/>
+      <point x="-358" y="512"/>
+      <point x="-427" y="512" type="curve" smooth="yes" name="n05"/>
+      <point x="-522" y="512"/>
+      <point x="-557" y="572"/>
+      <point x="-557" y="629" type="curve" smooth="yes"/>
+      <point x="-557" y="637"/>
+      <point x="-558" y="642"/>
+      <point x="-557" y="652" type="curve" name="n11"/>
+      <point x="-504" y="652" type="line" name="n12"/>
+      <point x="-501" y="598"/>
+      <point x="-456" y="578"/>
+      <point x="-417" y="578" type="curve" smooth="yes" name="n15"/>
+      <point x="-376" y="578"/>
+      <point x="-323" y="599"/>
+      <point x="-297" y="652" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>512</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>586</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-557</integer>
+        <key>width</key>
+        <integer>544</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>920a6790ee08bbf5fe8f8d6fcfef0adfefafd0d4da797cdc8d17b9d340d52b9144ef3d44dd800a65e60b3a22fe9650f39d7f150af63b09224e975e915352e5e2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 512 66</string>
+          <string>hstem 586 66</string>
+          <string>vstem -557 53</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

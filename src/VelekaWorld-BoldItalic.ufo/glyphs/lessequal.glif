@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="1000"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="800" y="117" type="line"/>
+      <point x="200" y="307" type="line"/>
+      <point x="200" y="369" type="line"/>
+      <point x="800" y="559" type="line"/>
+      <point x="800" y="497" type="line"/>
+      <point x="264" y="338" type="line"/>
+      <point x="800" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="0" type="line" name="n07"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="55" type="line"/>
+      <point x="800" y="55" type="line" name="n10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>200</integer>
+        <key>width</key>
+        <integer>600</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m800,117l200,307l200,369l800,559l800,497l264,338l800,179m800,0l200,0l200,55l800,55</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

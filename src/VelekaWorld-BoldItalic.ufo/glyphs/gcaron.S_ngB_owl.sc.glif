@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcaron.SngBowl.sc" format="2">
+  <advance width="671"/>
+  <outline>
+    <contour>
+      <point x="650" y="224" type="line"/>
+      <point x="588" y="220" type="line"/>
+      <point x="580" y="219"/>
+      <point x="578" y="216"/>
+      <point x="576" y="210" type="curve"/>
+      <point x="576" y="210.162"/>
+      <point x="576" y="210.838"/>
+      <point x="576" y="211" type="curve"/>
+      <point x="574.305" y="203.333"/>
+      <point x="542.642" y="60.0952"/>
+      <point x="534" y="21" type="curve"/>
+      <point x="484" y="8"/>
+      <point x="398" y="-13"/>
+      <point x="322" y="-13" type="curve" smooth="yes" name="n13"/>
+      <point x="93" y="-13"/>
+      <point x="47" y="133"/>
+      <point x="47" y="220" type="curve" smooth="yes" name="n16"/>
+      <point x="47" y="423"/>
+      <point x="237" y="560"/>
+      <point x="454" y="560" type="curve" smooth="yes" name="n19"/>
+      <point x="522" y="560"/>
+      <point x="567" y="551"/>
+      <point x="642" y="530" type="curve"/>
+      <point x="607" y="376" type="line"/>
+      <point x="531" y="376" type="line"/>
+      <point x="540" y="471" type="line"/>
+      <point x="540" y="477"/>
+      <point x="526" y="483"/>
+      <point x="516" y="486" type="curve"/>
+      <point x="515" y="486"/>
+      <point x="513" y="486"/>
+      <point x="511" y="487" type="curve"/>
+      <point x="497" y="492"/>
+      <point x="468" y="501"/>
+      <point x="443" y="501" type="curve" smooth="yes" name="n34"/>
+      <point x="333" y="501"/>
+      <point x="184" y="391"/>
+      <point x="184" y="208" type="curve" smooth="yes" name="n37"/>
+      <point x="184" y="81"/>
+      <point x="298" y="45"/>
+      <point x="340" y="45" type="curve" smooth="yes" name="n40"/>
+      <point x="363" y="45"/>
+      <point x="396" y="53"/>
+      <point x="412" y="57" type="curve"/>
+      <point x="412" y="54" type="line"/>
+      <point x="417.853" y="80.4213"/>
+      <point x="441.147" y="185.579"/>
+      <point x="447" y="212" type="curve"/>
+      <point x="447" y="217"/>
+      <point x="442" y="220"/>
+      <point x="430" y="221" type="curve"/>
+      <point x="430" y="221"/>
+      <point x="403" y="223"/>
+      <point x="379" y="224" type="curve"/>
+      <point x="379" y="273" type="line"/>
+      <point x="650" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="647" y="790" type="line" name="n56"/>
+      <point x="502" y="618" type="line"/>
+      <point x="384" y="618" type="line"/>
+      <point x="307" y="790" type="line"/>
+      <point x="390" y="790" type="line"/>
+      <point x="459" y="695" type="line"/>
+      <point x="564" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>50</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>225</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>508</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>169</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>46</integer>
+        <key>width</key>
+        <integer>100</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>284</integer>
+        <key>width</key>
+        <integer>343</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ebee3a7197f6e1e28cefe304267867325afb1c9c1cae9750138ea52c94664cd5e157cc38d4d667d6b1b0c0f27757c2efd89bf6a2289f4dd0d4e452f305f8fa89</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -13 58</string>
+          <string>hstem 501 59</string>
+          <string>hstem 790 -20</string>
+          <string>vstem 47 137</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

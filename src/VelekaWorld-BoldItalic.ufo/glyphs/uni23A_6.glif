@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni23A6" format="2">
+  <advance width="454"/>
+  <unicode hex="23A6"/>
+  <outline>
+    <contour>
+      <point x="366" y="-220" type="line" name="n00"/>
+      <point x="88" y="-220" type="line" name="n01"/>
+      <point x="88" y="-156" type="line" name="n02"/>
+      <point x="244" y="-156" type="line" name="hr01"/>
+      <point x="244" y="1221" type="line" name="n04"/>
+      <point x="366" y="1221" type="line" name="n05"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-220</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>254</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w454m366,-220l88,-220l88,-156l244,-156l244,1221l366,1221</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 64</string>
+          <string>vstem 88 278</string>
+          <string>hstem 1221 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 64</string>
+          <string>vstem 88 278</string>
+          <string>hstem 1221 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

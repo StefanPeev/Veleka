@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-324" y="-50" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-169" y="-88" type="line" name="n00"/>
+      <point x="-182" y="-154" type="line" name="n01"/>
+      <point x="-484" y="-154" type="line"/>
+      <point x="-470" y="-88" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="330_v" x="-324" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-154</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-484</integer>
+        <key>width</key>
+        <integer>315</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-169,-88l-182,-154l-484,-154l-470,-88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -154 66</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

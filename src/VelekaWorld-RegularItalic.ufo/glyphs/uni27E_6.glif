@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni27E6" format="2">
+  <advance width="440"/>
+  <unicode hex="27E6"/>
+  <outline>
+    <contour>
+      <point x="404" y="-198" type="line" name="n00"/>
+      <point x="81" y="-198" type="line" name="n01"/>
+      <point x="81" y="678" type="line"/>
+      <point x="404" y="678" type="line" name="n03"/>
+      <point x="404" y="640" type="line" name="n04"/>
+      <point x="262" y="640" type="line"/>
+      <point x="262" y="-160" type="line" name="n06"/>
+      <point x="404" y="-160" type="line" name="n07"/>
+    </contour>
+    <contour>
+      <point x="140" y="640" type="line"/>
+      <point x="140" y="-160" type="line" name="n09"/>
+      <point x="203" y="-160" type="line" name="n10"/>
+      <point x="203" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-198</integer>
+        <key>width</key>
+        <integer>39</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>640</integer>
+        <key>width</key>
+        <integer>38</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>81</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>203</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w440m404,-198l81,-198l81,678l404,678l404,640l262,640l262,-160l404,-160m140,640l140,-160l203,-160l203,640</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -198 38</string>
+          <string>hstem 640 38</string>
+          <string>vstem 81 59</string>
+          <string>vstem 203 59</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

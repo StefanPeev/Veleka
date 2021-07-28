@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="211"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="100.667" y="-85.3333" type="line"/>
+      <point x="61.2787" y="-111.931"/>
+      <point x="22.326" y="-135.404"/>
+      <point x="-2.90533" y="-147.661" type="curve" name="n03"/>
+      <point x="-39.1971" y="-154.708"/>
+      <point x="-54.8025" y="-141.359"/>
+      <point x="-48.1404" y="-109.437" type="curve" smooth="yes" name="n06"/>
+      <point x="-41.7428" y="-76.9049"/>
+      <point x="-13.5827" y="-47.1395"/>
+      <point x="43.223" y="-10.8779" type="curve"/>
+      <point x="91.2545" y="-25.0612" type="line"/>
+      <point x="37.8613" y="-60.8591"/>
+      <point x="9.11769" y="-90.5983"/>
+      <point x="-1.4341" y="-112.842" type="curve" name="n13"/>
+      <point x="-15.0488" y="-132.309"/>
+      <point x="-12.1511" y="-130.933"/>
+      <point x="1.06849" y="-117.082" type="curve" name="n16"/>
+      <point x="12.5764" y="-100.716"/>
+      <point x="38.3298" y="-74.8742"/>
+      <point x="70.1242" y="-52.7228" type="curve" name="n19"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-216</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-82</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>10e99657a7eca6865573bda22dec9a4d67f344323863da3bc19f42af74b9848ba680cc3a12fe4cbfc3175873712dc832866bf1969de0a409b89d5996d28cf5f6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -112.84 3.41</string>
+          <string>vstem -2.91 3.97</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -112.84 60.12</string>
+          <string>vstem -2.91 3.97</string>
+        </array>
+        <key>pointTag</key>
+        <string>n19</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

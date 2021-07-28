@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve.sc" format="2">
+  <advance width="513"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="517" y="762" type="line"/>
+      <point x="501" y="694"/>
+      <point x="440" y="618"/>
+      <point x="335" y="618" type="curve" smooth="yes" name="n03"/>
+      <point x="240" y="618"/>
+      <point x="205" y="678"/>
+      <point x="205" y="735" type="curve" smooth="yes" name="n06"/>
+      <point x="205" y="743"/>
+      <point x="206" y="752"/>
+      <point x="207" y="762" type="curve" name="hr01"/>
+      <point x="259" y="762" type="line" name="n10"/>
+      <point x="262" y="703"/>
+      <point x="306" y="685" name="hr02"/>
+      <point x="345" y="685" type="curve" smooth="yes" name="n13"/>
+      <point x="386" y="685"/>
+      <point x="440" y="704"/>
+      <point x="466" y="762" type="curve" name="hr03"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>205</integer>
+        <key>width</key>
+        <integer>312</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9ffff966239709b7fc1e1837b2accf0995a626ee3ff5b5e799af2e0208103ddfb9a4b37b2a3c799bc488f35e9bfd6f41455fa93fb27576ef27c5bd842012efdb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 618 67</string>
+          <string>vstem 205 54</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 618 144</string>
+          <string>vstem 205 54</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 618 67</string>
+          <string>vstem 205 54</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 618 144</string>
+          <string>vstem 205 54</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

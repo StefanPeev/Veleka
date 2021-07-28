@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.sc" format="2">
+  <advance width="539"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="513" y="751.333" type="curve" smooth="yes"/>
+      <point x="513" y="736.333"/>
+      <point x="502.667" y="718.333"/>
+      <point x="487.667" y="709.667" type="curve" smooth="yes"/>
+      <point x="330.333" y="618" type="line"/>
+      <point x="260" y="618" type="line"/>
+      <point x="397" y="771.333" type="line" smooth="yes"/>
+      <point x="416" y="793"/>
+      <point x="430" y="800.333" name="n08"/>
+      <point x="458" y="800.333" type="curve" smooth="yes"/>
+      <point x="498.333" y="800.333"/>
+      <point x="513" y="774"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>250</integer>
+        <key>width</key>
+        <integer>244</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>88fbaceb7b37eb775c26d7434c7dcb7db0dfb174711250c267c50bea8b43df649fddc367fcec3230e0f8d03e0205d372b89a30ffdffb43a3e2e9d27f4169bcf7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 800.33 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

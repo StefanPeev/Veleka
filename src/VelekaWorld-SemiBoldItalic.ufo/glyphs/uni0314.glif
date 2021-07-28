@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0314" format="2">
+  <unicode hex="0314"/>
+  <outline>
+    <contour>
+      <point x="-95.6667" y="746.667" type="curve" smooth="yes" name="n00"/>
+      <point x="-95.6667" y="721.333"/>
+      <point x="-107.667" y="695.667"/>
+      <point x="-125.333" y="678.667" type="curve" name="n03"/>
+      <point x="-186" y="678.667" type="line"/>
+      <point x="-189.667" y="664.333"/>
+      <point x="-195" y="651" name="hr01"/>
+      <point x="-195" y="635.667" type="curve" smooth="yes" name="n07"/>
+      <point x="-195" y="587.333"/>
+      <point x="-158.333" y="551.667"/>
+      <point x="-124.333" y="524.667" type="curve"/>
+      <point x="-153.333" y="496" type="line"/>
+      <point x="-208.333" y="516.667"/>
+      <point x="-263.667" y="579.667"/>
+      <point x="-263.667" y="657.333" type="curve" smooth="yes" name="n14"/>
+      <point x="-263.667" y="723"/>
+      <point x="-228" y="797"/>
+      <point x="-153" y="797" type="curve" smooth="yes" name="n17"/>
+      <point x="-119.333" y="797"/>
+      <point x="-95.6667" y="780.333" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>706</integer>
+        <key>width</key>
+        <integer>101</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-229</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cf4ae42c7af78d621e1581b1c70f53e5c65c34a1c6054e41c70f7f6ef0ea8b4d5cb92b8165acf84b3085fd164f50553331cc4d0e74a39e53369bad1b01350e1e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem -263.67 168</string>
+          <string>hstem 678.67 118.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem -263.67 68.67</string>
+          <string>hstem 678.67 118.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem -263.67 168</string>
+          <string>hstem 678.67 118.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

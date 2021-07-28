@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA721" format="2">
+  <advance width="568"/>
+  <unicode hex="A721"/>
+  <outline>
+    <contour>
+      <point x="326" y="542" type="line" name="n00"/>
+      <point x="593" y="542" type="line" name="n01"/>
+      <point x="593" y="483" type="line" name="n02"/>
+      <point x="73" y="483" type="line" name="n03"/>
+      <point x="73" y="693" type="line" name="n04"/>
+      <point x="131" y="693" type="line" name="n05"/>
+      <point x="131" y="542" type="line" name="hr02"/>
+      <point x="269" y="542" type="line" name="n07"/>
+      <point x="269" y="693" type="line" name="hr03"/>
+      <point x="326" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>73</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>269</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w568m326,542l593,542l593,483l73,483l73,693l131,693l131,542l269,542l269,693l326,693</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 59</string>
+          <string>vstem 269 57</string>
+          <string>vstem 73 58</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 210</string>
+          <string>vstem 73 58</string>
+          <string>vstem 269 57</string>
+        </array>
+        <key>pointTag</key>
+        <string>n04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 59</string>
+          <string>vstem 73 58</string>
+          <string>vstem 269 57</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 210</string>
+          <string>vstem 269 57</string>
+          <string>vstem 73 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 59</string>
+          <string>vstem 269 57</string>
+          <string>vstem 73 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>n00</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
