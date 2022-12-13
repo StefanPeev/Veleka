@@ -42,6 +42,7 @@ SIL Open Font License [OFL](documentation/OFL.txt)
 + [Pliska](https://github.com/StefanPeev/Pliska)
 + [Veleka](https://github.com/StefanPeev/Veleka)
 + [Common Sans](https://github.com/StefanPeev/Common-Sans)
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)
 
 ### Donations
 
