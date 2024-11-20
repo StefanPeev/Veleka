@@ -1,9 +1,9 @@
 ![Sample Image](/images/Veleka_01.png)
 
-# Veleka
+# Veleka and Veleka World
 
 **Font Veleka** is a part of the project **LOCAL FONTS** for development of <code>free-to-use fonts</code> with the *modern Bulgarian letterform model* in the the Cyrillic Unicode range. The project as a whole is based on well known fonts published under licenses which permit modifications and derivative works.
-The Veleka font family is based on Charis SIL, copyrighted by SIL International, 1997-2014 under [SIL Open Font License (OFL)](http://scripts.sil.org/ofl). Although Charis SIL is intended to be a multilingual font, it has some limitations, which were the reason to create the Veleka font. The Veleka font family contains two models of Cyrillic glyphs. The base range of the Cyrillic glyphs <code>(uni0410:uni044F)</code> represents the modern Bulgarian letterform model. The international Cyrillic letterform model is included as a local feature for Russian language and as a Stylistic Set 01. In the future the project will be develop as a multilingual font for Latin, Greek and Cyrillic scripts with a special attention to local features in OpenType.
+The Veleka font family is based on [Charis SIL](https://github.com/silnrsi/font-charis), copyrighted by SIL International, 1997-2014 under [SIL Open Font License (OFL)](http://scripts.sil.org/ofl). Although Charis SIL is intended to be a multilingual font, it has some limitations, which were the reason to create the Veleka font. The Veleka font family contains localizations in the field of Cyrillic script (Bulgarian, Serbian, Macedonian). The project will be develop as a multilingual font for Latin, Greek and Cyrillic scripts with a special attention to local features in OpenType.
 
 ### What is new in Veleka (v.1.0)
 + Support for Greek in the Unicode range <code>uni0370:uni03CE</code>.
