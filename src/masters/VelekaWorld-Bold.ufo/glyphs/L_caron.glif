@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="594"/>
+  <unicode hex="013D"/>
+  <anchor x="203" y="748" name="top"/>
+  <anchor x="282" y="-60" name="bottom"/>
+  <anchor x="411" y="340" name="center"/>
+  <anchor x="297" y="340" name="c.OCS"/>
+  <outline>
+    <component base="L"/>
+    <component base="uni02BC" xOffset="369" yOffset="34"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L+40</string>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni02BC</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

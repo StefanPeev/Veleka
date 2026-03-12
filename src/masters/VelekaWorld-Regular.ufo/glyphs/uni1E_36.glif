@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E36" format="2">
+  <advance width="530"/>
+  <unicode hex="1E36"/>
+  <anchor x="199" y="748" name="top"/>
+  <anchor x="359" y="740" name="t.r.caron"/>
+  <anchor x="378" y="340" name="center"/>
+  <anchor x="270" y="340" name="c.OCS"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb" xOffset="542"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

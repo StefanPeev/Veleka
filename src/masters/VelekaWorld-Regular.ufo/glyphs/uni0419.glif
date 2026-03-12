@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0419" format="2">
+  <advance width="711"/>
+  <unicode hex="0419"/>
+  <anchor x="338" y="323" name="c.OCS"/>
+  <anchor x="-54" y="748" name="left.OCSn"/>
+  <anchor x="711" y="748" name="t.titlo"/>
+  <outline>
+    <component base="uni0418"/>
+    <component base="brevecyr" xOffset="586"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0418+brevecyr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

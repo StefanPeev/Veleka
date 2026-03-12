@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="339"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="228" y="705" type="curve" smooth="yes"/>
+      <point x="228" y="736"/>
+      <point x="252" y="752"/>
+      <point x="283" y="752" type="curve" smooth="yes"/>
+      <point x="329" y="752"/>
+      <point x="354" y="720"/>
+      <point x="354" y="671" type="curve" smooth="yes"/>
+      <point x="354" y="594"/>
+      <point x="294" y="558"/>
+      <point x="229" y="546" type="curve"/>
+      <point x="229" y="575" type="line"/>
+      <point x="276" y="589"/>
+      <point x="302" y="609"/>
+      <point x="302" y="669" type="curve"/>
+      <point x="243" y="669" type="line"/>
+      <point x="233" y="679"/>
+      <point x="228" y="694"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

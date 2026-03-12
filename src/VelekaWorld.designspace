@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" tag="wght" minimum="400" name="weight" maximum="700">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source name="Bold" filename="masters/VelekaWorld-Bold.ufo" stylename="Bold" familyname="Veleka World">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source name="Regular" filename="masters/VelekaWorld-Regular.ufo" stylename="Regular" familyname="Veleka World">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="Regular" filename="instances/VelekaWorld-Regular.ufo" stylename="Regular" familyname="Veleka World">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="Medium" filename="instances/VelekaWorld-Medium.ufo" stylename="Medium" familyname="Veleka World">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBold" filename="instances/VelekaWorld-SemiBold.ufo" stylename="SemiBold" familyname="Veleka World">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance name="Bold" filename="instances/VelekaWorld-Bold.ufo" stylename="Bold" familyname="Veleka World">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

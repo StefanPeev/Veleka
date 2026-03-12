@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04300301" format="2">
+  <advance width="508"/>
+  <anchor x="262" y="-60" name="bottom"/>
+  <anchor x="264" y="560" name="t.ring"/>
+  <anchor x="438" y="0" name="b.ogonek"/>
+  <outline>
+    <component base="uni0430"/>
+    <component base="uni0301" xOffset="499"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0430+uni0301</string>
+  </dict>
+  </lib>
+</glyph>

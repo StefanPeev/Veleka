@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="2">
+  <advance width="526"/>
+  <unicode hex="0065"/>
+  <anchor x="268" y="560" name="top"/>
+  <anchor x="268" y="-60" name="bottom"/>
+  <anchor x="322" y="0" name="b.ogonek"/>
+  <outline>
+    <contour>
+      <point x="30" y="238" type="curve" smooth="yes"/>
+      <point x="30" y="389"/>
+      <point x="130" y="500"/>
+      <point x="282" y="500" type="curve" smooth="yes"/>
+      <point x="439" y="500"/>
+      <point x="496" y="388"/>
+      <point x="496" y="272" type="curve" smooth="yes"/>
+      <point x="496" y="248" type="line"/>
+      <point x="168" y="248" type="line"/>
+      <point x="168" y="139"/>
+      <point x="224" y="71"/>
+      <point x="322" y="71" type="curve" smooth="yes"/>
+      <point x="423" y="71"/>
+      <point x="489" y="121"/>
+      <point x="496" y="127" type="curve"/>
+      <point x="496" y="47" type="line"/>
+      <point x="488" y="41"/>
+      <point x="412" y="-12"/>
+      <point x="285" y="-12" type="curve" smooth="yes"/>
+      <point x="115" y="-12"/>
+      <point x="30" y="99"/>
+    </contour>
+    <contour>
+      <point x="173" y="304" type="curve"/>
+      <point x="353" y="304" type="line"/>
+      <point x="353" y="326" type="line" smooth="yes"/>
+      <point x="353" y="390"/>
+      <point x="330" y="441"/>
+      <point x="271" y="441" type="curve" smooth="yes"/>
+      <point x="197" y="441"/>
+      <point x="173" y="367"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>public.markColor</key>
+  <string>0.798,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
