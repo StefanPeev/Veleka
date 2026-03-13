@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotenleader" format="2">
+  <advance width="625"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="498.333" y="60.3333" type="curve" smooth="yes" name="n00"/>
+      <point x="498.333" y="20.3333"/>
+      <point x="465.333" y="-12"/>
+      <point x="425.333" y="-12" type="curve" smooth="yes" name="n03"/>
+      <point x="385.333" y="-12"/>
+      <point x="353.333" y="20.3333"/>
+      <point x="353.333" y="60.3333" type="curve" smooth="yes" name="n06"/>
+      <point x="353.333" y="100.333"/>
+      <point x="385.333" y="133"/>
+      <point x="425.333" y="133" type="curve" smooth="yes" name="n09"/>
+      <point x="465.333" y="133"/>
+      <point x="498.333" y="100.333"/>
+    </contour>
+    <contour>
+      <point x="165" y="60.3333" type="curve" smooth="yes" name="n12"/>
+      <point x="165" y="20.3333"/>
+      <point x="132" y="-12"/>
+      <point x="92" y="-12" type="curve" smooth="yes"/>
+      <point x="52" y="-12"/>
+      <point x="20" y="20.3333"/>
+      <point x="20" y="60.3333" type="curve" smooth="yes" name="n18"/>
+      <point x="20" y="100.333"/>
+      <point x="52" y="133"/>
+      <point x="92" y="133" type="curve" smooth="yes"/>
+      <point x="132" y="133"/>
+      <point x="165" y="100.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>18</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>351</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a92ef0bdcde1c776d74e8528c138969c46fd86a43d612ca856ecf48cd0335e940f236e033af033fb41816009a256f9acffc07214b6e3b03c2565d6f99cca183b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 145</string>
+          <string>vstem 20 145</string>
+          <string>vstem 353.33 145</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

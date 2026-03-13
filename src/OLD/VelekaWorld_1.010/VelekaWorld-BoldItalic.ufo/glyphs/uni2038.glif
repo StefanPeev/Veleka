@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2038" format="2">
+  <advance width="258"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="258" y="-129" type="line" name="n00"/>
+      <point x="199" y="-129" type="line"/>
+      <point x="129" y="-28" type="line"/>
+      <point x="60" y="-129" type="line"/>
+      <point x="0" y="-129" type="line"/>
+      <point x="100" y="14" type="line" name="n05"/>
+      <point x="159" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-28</integer>
+        <key>width</key>
+        <integer>42</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>258</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w258m258,-129l199,-129l129,-28l60,-129l0,-129l100,14l159,14</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -108 -21</string>
+          <string>hstem 14 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

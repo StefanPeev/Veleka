@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute.sc" format="2">
+  <advance width="592"/>
+  <outline>
+    <component base="c.sc"/>
+    <contour>
+      <point x="580.667" y="753.667" type="curve" smooth="yes"/>
+      <point x="580.667" y="736.667"/>
+      <point x="570.667" y="721.667"/>
+      <point x="555.667" y="712.333" type="curve" smooth="yes"/>
+      <point x="402.333" y="618" type="line"/>
+      <point x="332" y="618" type="line"/>
+      <point x="468.333" y="772.667" type="line" smooth="yes"/>
+      <point x="484.333" y="791"/>
+      <point x="499" y="799.667" name="n08"/>
+      <point x="528" y="799.667" type="curve" smooth="yes"/>
+      <point x="565.667" y="799.667"/>
+      <point x="580.667" y="775"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>511</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>46</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>326</integer>
+        <key>width</key>
+        <integer>244</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b23ecc633410c2c245736ebc166d4d06b5282a09a4e6619d6046cad859b1bf1365ce4a1b692e2bc5ee95387a77a633b173bd152ba6b966055969e5bb9cd77c03</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 799.67 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

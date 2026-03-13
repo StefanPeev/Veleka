@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="2">
+  <advance width="585"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <contour>
+      <point x="649" y="671" type="line"/>
+      <point x="618" y="518" type="line"/>
+      <point x="555" y="518" type="line"/>
+      <point x="559" y="606" type="line" smooth="yes"/>
+      <point x="560" y="620"/>
+      <point x="554" y="626" name="hr01"/>
+      <point x="540" y="626" type="curve" smooth="yes"/>
+      <point x="411" y="626" type="line"/>
+      <point x="307" y="66" type="line" smooth="yes"/>
+      <point x="305" y="56"/>
+      <point x="309" y="48"/>
+      <point x="327" y="47" type="curve"/>
+      <point x="384" y="42" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="42" type="line"/>
+      <point x="182" y="47" type="line" smooth="yes"/>
+      <point x="194" y="48"/>
+      <point x="204" y="54"/>
+      <point x="206" y="66" type="curve" smooth="yes"/>
+      <point x="310" y="626" type="line"/>
+      <point x="185" y="626" type="line" smooth="yes"/>
+      <point x="173" y="626"/>
+      <point x="164" y="619"/>
+      <point x="160" y="606" type="curve"/>
+      <point x="129" y="518" type="line" name="hr02"/>
+      <point x="66" y="518" type="line"/>
+      <point x="95" y="671" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>44</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>626</integer>
+        <key>width</key>
+        <integer>45</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>66</integer>
+        <key>width</key>
+        <integer>583</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9b4ac0ab72364133b716dc5847339641087d532f3d01f912d07d6c1c72933ac05af7ff138ecdca5db97ea5b1f5541e3c836d79debcbc08fa529f5e3f29a81ac1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 518 153</string>
+          <string>hstem 0 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 626 45</string>
+          <string>hstem 0 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 518 153</string>
+          <string>hstem 0 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

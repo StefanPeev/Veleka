@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED5.sc" format="2">
+  <advance width="666"/>
+  <outline>
+    <component base="o.sc"/>
+    <contour>
+      <point x="581" y="618" type="line"/>
+      <point x="506.333" y="618" type="line"/>
+      <point x="429.333" y="711" type="line"/>
+      <point x="314" y="618" type="line"/>
+      <point x="239.667" y="618" type="line"/>
+      <point x="398" y="788.667" type="line"/>
+      <point x="490" y="788.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="538.667" y="960.972" type="curve" smooth="yes" name="n07"/>
+      <point x="538.667" y="912.333"/>
+      <point x="494.333" y="885.667"/>
+      <point x="453.333" y="870.667" type="curve"/>
+      <point x="442.333" y="813" type="line"/>
+      <point x="408.333" y="813" type="line"/>
+      <point x="423.667" y="889.333" type="line"/>
+      <point x="459.45" y="898.446"/>
+      <point x="489.945" y="917.728"/>
+      <point x="489.887" y="956.774" type="curve" smooth="yes" name="n16"/>
+      <point x="489.853" y="974.582"/>
+      <point x="483.177" y="993.341"/>
+      <point x="464.263" y="993.341" type="curve" smooth="yes" name="n19"/>
+      <point x="459.709" y="993.341"/>
+      <point x="452.535" y="992.256"/>
+      <point x="447.342" y="987.371" type="curve"/>
+      <point x="427.667" y="949.667" type="line"/>
+      <point x="423.267" y="946.8"/>
+      <point x="415" y="942.333"/>
+      <point x="405.667" y="942.333" type="curve" smooth="yes"/>
+      <point x="389.333" y="942.333"/>
+      <point x="384.667" y="955" name="hr01"/>
+      <point x="384.667" y="968" type="curve" smooth="yes" name="n29"/>
+      <point x="384.667" y="997"/>
+      <point x="438.333" y="1022.33"/>
+      <point x="475.332" y="1022.33" type="curve" smooth="yes" name="n32"/>
+      <point x="511" y="1022.33"/>
+      <point x="538.667" y="998.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>512</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>169</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>988</integer>
+        <key>width</key>
+        <integer>31</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>47</integer>
+        <key>width</key>
+        <integer>102</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>233</integer>
+        <key>width</key>
+        <integer>342</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>483</integer>
+        <key>width</key>
+        <integer>46</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>524</integer>
+        <key>width</key>
+        <integer>102</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>129363730ed5ea94e752910b3e34e261aec6b21c8f1946643a1abfb946d46f850de778670f0fbb9d00057602a6e1c5cb8bae536e8d55c134236359bc2eaccdb6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 489.89 48.78</string>
+          <string>hstem 993.34 28.99</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 384.67 154.</string>
+          <string>hstem 993.34 28.99</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

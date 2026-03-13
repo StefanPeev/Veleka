@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="-213.333" y="553.333" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-97.029" y="554" type="line" name="n00"/>
+      <point x="-164.362" y="554" type="line"/>
+      <point x="-320.696" y="644.333" type="line" smooth="yes"/>
+      <point x="-334.782" y="652.505"/>
+      <point x="-345.029" y="671"/>
+      <point x="-345.029" y="689.21" type="curve" smooth="yes"/>
+      <point x="-345.029" y="709"/>
+      <point x="-332.696" y="736.333" name="n07"/>
+      <point x="-288.763" y="736.333" type="curve" smooth="yes"/>
+      <point x="-265.029" y="736.333"/>
+      <point x="-252.251" y="728.102"/>
+      <point x="-233.029" y="706.667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="560"/>
+  <guideline angle="0" x="0" y="740"/>
+  <guideline angle="0" x="0" y="574"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>551</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-315</integer>
+        <key>width</key>
+        <integer>230</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bd09d75aa0a7894ad88b93650b07dafcefb5d91547536bddc84524201aadae8264d21cb2c88e09b18700f9ebebebd809e7b8a9b40652baba08f741f1ca86ac2d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 575 -21</string>
+          <string>hstem 736.33 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

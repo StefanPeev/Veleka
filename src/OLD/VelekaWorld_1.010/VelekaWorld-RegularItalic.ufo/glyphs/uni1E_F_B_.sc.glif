@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EFB.sc" format="2">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="615" y="157" type="line"/>
+      <point x="581" y="0" type="line" name="n01"/>
+      <point x="-11" y="0" type="line" name="n02"/>
+      <point x="-11" y="42.9767" type="line"/>
+      <point x="46" y="45.6" type="line" smooth="yes"/>
+      <point x="57.0301" y="46.0644"/>
+      <point x="61.2858" y="50.1221"/>
+      <point x="63" y="58" type="curve" smooth="yes"/>
+      <point x="157" y="490" type="line"/>
+      <point x="157" y="496.139"/>
+      <point x="153.955" y="499.884"/>
+      <point x="140" y="501" type="curve" smooth="yes"/>
+      <point x="90" y="505" type="line"/>
+      <point x="90" y="547" type="line" name="n13"/>
+      <point x="500" y="547" type="line"/>
+      <point x="500" y="505" type="line"/>
+      <point x="447" y="501" type="line"/>
+      <point x="433" y="501"/>
+      <point x="425" y="495"/>
+      <point x="424" y="488" type="curve"/>
+      <point x="330" y="48" type="line" name="hr01"/>
+      <point x="506" y="48" type="line" smooth="yes" name="n21"/>
+      <point x="518" y="48"/>
+      <point x="526.092" y="52.5415"/>
+      <point x="529" y="61" type="curve" smooth="yes"/>
+      <point x="562" y="157" type="line" name="n25"/>
+    </contour>
+    <contour>
+      <point x="287.831" y="503" type="curve" smooth="yes" name="n26"/>
+      <point x="261.649" y="503"/>
+      <point x="251.671" y="500.145"/>
+      <point x="249" y="488" type="curve" smooth="yes"/>
+      <point x="154" y="56" type="line"/>
+      <point x="154.209" y="47.3486" name="hr03"/>
+      <point x="165.554" y="44" name="hr04"/>
+      <point x="195" y="44" type="curve" smooth="yes" name="n33"/>
+      <point x="224.758" y="44"/>
+      <point x="235.925" y="44.6927"/>
+      <point x="239" y="58" type="curve" smooth="yes"/>
+      <point x="333" y="490" type="line"/>
+      <point x="332.888" y="498.167"/>
+      <point x="321.898" y="503"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>503</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>626</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9624f0dbdbfd311ccb49f88ab82cf873054268c8ede84afd9cc0cacc7da5d6c8df75697b15f71f2eaeb1dfc71d86e98676763ed8f6e08a6259d357a0e409623d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 44</string>
+          <string>hstem 503 44</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 48</string>
+          <string>hstem 503 44</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 157</string>
+          <string>hstem 503 44</string>
+        </array>
+        <key>pointTag</key>
+        <string>n25</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 48</string>
+          <string>hstem 503 44</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 44</string>
+          <string>hstem 503 44</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

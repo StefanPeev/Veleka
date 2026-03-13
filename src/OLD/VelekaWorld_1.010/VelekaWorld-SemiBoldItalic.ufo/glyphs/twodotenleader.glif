@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotenleader" format="2">
+  <advance width="638"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="511.667" y="65.6667" type="curve" smooth="yes" name="n00"/>
+      <point x="511.667" y="22.6667"/>
+      <point x="476.667" y="-12"/>
+      <point x="433.667" y="-12" type="curve" smooth="yes" name="n03"/>
+      <point x="390.667" y="-12"/>
+      <point x="355.667" y="22.6667"/>
+      <point x="355.667" y="65.6667" type="curve" smooth="yes" name="n06"/>
+      <point x="355.667" y="108.667"/>
+      <point x="390.667" y="144"/>
+      <point x="433.667" y="144" type="curve" smooth="yes" name="n09"/>
+      <point x="476.667" y="144"/>
+      <point x="511.667" y="108.667"/>
+    </contour>
+    <contour>
+      <point x="178" y="65.6667" type="curve" smooth="yes" name="n12"/>
+      <point x="178" y="22.6667"/>
+      <point x="143" y="-12"/>
+      <point x="100" y="-12" type="curve" smooth="yes"/>
+      <point x="57" y="-12"/>
+      <point x="22" y="22.6667"/>
+      <point x="22" y="65.6667" type="curve" smooth="yes" name="n18"/>
+      <point x="22" y="108.667"/>
+      <point x="57" y="144"/>
+      <point x="100" y="144" type="curve" smooth="yes"/>
+      <point x="143" y="144"/>
+      <point x="178" y="108.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>18</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>351</integer>
+        <key>width</key>
+        <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2cadb76c6be8f86d7d5997eff0b6a5cd5f20831662c36bb962d4dc0cd0960d8dbeb7e48e5c9c277defe710893197b7509e8dae5aa4006c52bb670beb581a4187</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 156</string>
+          <string>vstem 22 156</string>
+          <string>vstem 355.67 156</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

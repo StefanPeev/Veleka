@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni23A9" format="2">
+  <advance width="602"/>
+  <unicode hex="23A9"/>
+  <outline>
+    <contour>
+      <point x="356.333" y="1221" type="line" name="n00"/>
+      <point x="356.333" y="361.333" type="line" smooth="yes"/>
+      <point x="356.333" y="-4.66667"/>
+      <point x="375.667" y="-151"/>
+      <point x="536.667" y="-151" type="curve" smooth="yes"/>
+      <point x="576" y="-151" type="line" name="n05"/>
+      <point x="576" y="-220" type="line" name="n06"/>
+      <point x="532.667" y="-220" type="line" smooth="yes"/>
+      <point x="293.667" y="-220"/>
+      <point x="245.667" y="-24"/>
+      <point x="245.667" y="342" type="curve" smooth="yes"/>
+      <point x="245.667" y="1221" type="line" name="n11"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-220</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>249</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dcc5ded4e0807a00d6c4ae49154c7890553490c9f00bbd54b65ba8070c5719d2526f98d8320941d1b23356b631fdcf936babe588a7bd04138c7dacb33feddbb7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 69</string>
+          <string>hstem 1221 -20</string>
+          <string>vstem 245.67 110.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

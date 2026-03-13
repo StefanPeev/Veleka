@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="537"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="502" y="392" type="line"/>
+      <point x="300" y="0" type="line" name="n01"/>
+      <point x="237" y="0" type="line"/>
+      <point x="35" y="392" type="line"/>
+      <point x="237" y="776" type="line" name="n04"/>
+      <point x="300" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="392" type="line"/>
+      <point x="269" y="719" type="line"/>
+      <point x="97" y="392" type="line"/>
+      <point x="269" y="56" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>776</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>35</integer>
+        <key>width</key>
+        <integer>467</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w537m502,392l300,0l237,0l35,392l237,776l300,776m440,392l269,719l97,392l269,56</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 776 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron.Caron.sc" format="2">
+  <advance width="655"/>
+  <outline>
+    <contour>
+      <point x="630" y="337" type="curve" smooth="yes" name="n00"/>
+      <point x="630" y="143"/>
+      <point x="475" y="0"/>
+      <point x="221" y="0" type="curve" smooth="yes" name="n03"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="-10" y="48" type="line"/>
+      <point x="16" y="50"/>
+      <point x="43" y="51"/>
+      <point x="43" y="51" type="curve"/>
+      <point x="58" y="52"/>
+      <point x="61" y="54"/>
+      <point x="63" y="62" type="curve"/>
+      <point x="157" y="488" type="line"/>
+      <point x="157" y="492"/>
+      <point x="150" y="495"/>
+      <point x="141" y="495" type="curve"/>
+      <point x="141" y="495"/>
+      <point x="114" y="498"/>
+      <point x="89" y="500" type="curve"/>
+      <point x="89" y="547" type="line"/>
+      <point x="323" y="547" type="line" smooth="yes" name="n20"/>
+      <point x="510" y="547"/>
+      <point x="630" y="487"/>
+    </contour>
+    <contour>
+      <point x="495" y="344" type="curve" smooth="yes" name="n23"/>
+      <point x="495" y="470"/>
+      <point x="391" y="488"/>
+      <point x="300" y="491" type="curve" name="n26"/>
+      <point x="288" y="491" type="line"/>
+      <point x="288" y="494" type="line" name="n28"/>
+      <point x="256" y="347" name="hr01"/>
+      <point x="223" y="205"/>
+      <point x="191" y="58" type="curve"/>
+      <point x="236" y="58" type="line" name="n32"/>
+      <point x="391" y="63"/>
+      <point x="495" y="195"/>
+    </contour>
+    <contour>
+      <point x="592" y="790" type="line" name="n35"/>
+      <point x="447" y="618" type="line"/>
+      <point x="329" y="618" type="line"/>
+      <point x="252" y="790" type="line"/>
+      <point x="335" y="790" type="line"/>
+      <point x="404" y="695" type="line"/>
+      <point x="509" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>169</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>232</integer>
+        <key>width</key>
+        <integer>343</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>494</integer>
+        <key>width</key>
+        <integer>98</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e3db4738da98e8d8bc0cd0ae470043bd808dbbb27ac6b431405b5ccf79345d28fed3c3d148ea2fb6838e59ae7c899cc693e5c59383b8f1f351d21907338e876a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 495 135</string>
+          <string>hstem 0 58</string>
+          <string>hstem 491 56</string>
+          <string>hstem 790 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 494 53</string>
+          <string>hstem 0 58</string>
+          <string>vstem 495 135</string>
+          <string>hstem 790 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

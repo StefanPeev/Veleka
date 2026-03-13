@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="-166.667" y="553.333" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-27.3913" y="692.299" type="curve" smooth="yes"/>
+      <point x="-27.3913" y="675.333"/>
+      <point x="-37.2991" y="660.193"/>
+      <point x="-52.3913" y="651" type="curve" smooth="yes"/>
+      <point x="-205.725" y="557" type="line" name="n04"/>
+      <point x="-276.058" y="557" type="line"/>
+      <point x="-139.725" y="711.333" type="line" smooth="yes"/>
+      <point x="-123.695" y="729.641"/>
+      <point x="-109.725" y="738.667" name="n08"/>
+      <point x="-84.8184" y="738.667" type="curve" smooth="yes"/>
+      <point x="-43.058" y="738.667"/>
+      <point x="-27.3913" y="713.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>551</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-266</integer>
+        <key>width</key>
+        <integer>244</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>838dd61c2954db8e9d8afdbab8822d36951c812b6db95096cb6454c57a683103055e992c68c560665d859b70ec846cdb42fba110bac366e3851a59bb08746dda</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 578 -21</string>
+          <string>hstem 738.67 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

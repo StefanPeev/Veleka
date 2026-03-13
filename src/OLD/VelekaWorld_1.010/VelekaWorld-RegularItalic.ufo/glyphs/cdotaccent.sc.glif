@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent.sc" format="2">
+  <advance width="579"/>
+  <outline>
+    <component base="c.sc"/>
+    <contour>
+      <point x="482" y="708" type="curve" smooth="yes" name="n00"/>
+      <point x="482" y="677"/>
+      <point x="457" y="652"/>
+      <point x="426" y="652" type="curve" smooth="yes" name="n03"/>
+      <point x="395" y="652"/>
+      <point x="371" y="677"/>
+      <point x="371" y="708" type="curve" smooth="yes" name="n06"/>
+      <point x="371" y="739"/>
+      <point x="394" y="766"/>
+      <point x="426" y="766" type="curve" smooth="yes" name="n09"/>
+      <point x="457" y="766"/>
+      <point x="482" y="740"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>511</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>652</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>46</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>371</integer>
+        <key>width</key>
+        <integer>112</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w579m482,708c482,677 457,652 426,652c395,652 371,677 371,708c371,739 394,766 426,766c457,766 482,740 482,708</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 652 114</string>
+          <string>vstem 371 111</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

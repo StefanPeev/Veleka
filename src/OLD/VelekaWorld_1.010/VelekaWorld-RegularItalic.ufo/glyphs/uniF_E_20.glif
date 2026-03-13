@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE20" format="2">
+  <unicode hex="FE20"/>
+  <outline>
+    <contour>
+      <point x="131" y="912" type="curve" name="n00"/>
+      <point x="118" y="844" type="line" name="n01"/>
+      <point x="-82" y="844"/>
+      <point x="-261" y="826"/>
+      <point x="-322" y="761" type="curve"/>
+      <point x="-343" y="783" type="line"/>
+      <point x="-271" y="869"/>
+      <point x="-106" y="912"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>844</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-343</integer>
+        <key>width</key>
+        <integer>474</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m131,912l118,844c-82,844 -261,826 -322,761l-343,783c-271,869 -106,912 131,912</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 844 68</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

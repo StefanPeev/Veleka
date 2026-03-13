@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D20" format="2">
+  <advance width="531"/>
+  <unicode hex="1D20"/>
+  <outline>
+    <contour>
+      <point x="566.333" y="444.667" type="line"/>
+      <point x="521" y="439.333" type="line"/>
+      <point x="249.333" y="-12" type="line" name="n02"/>
+      <point x="172.667" y="-12" type="line"/>
+      <point x="94" y="439" type="line"/>
+      <point x="43" y="443.333" type="line" name="n05"/>
+      <point x="43" y="484.667" type="line" name="n06"/>
+      <point x="247" y="484.667" type="line"/>
+      <point x="247" y="443.333" type="line"/>
+      <point x="207.667" y="441.667" type="line"/>
+      <point x="197.333" y="440.667"/>
+      <point x="195.333" y="437.333"/>
+      <point x="196.667" y="430.667" type="curve"/>
+      <point x="251.333" y="112.667" type="line"/>
+      <point x="438.667" y="433" type="line"/>
+      <point x="441.667" y="438.667"/>
+      <point x="439.333" y="442"/>
+      <point x="431" y="442" type="curve"/>
+      <point x="431" y="442"/>
+      <point x="402.814" y="443.159"/>
+      <point x="387.667" y="443.333" type="curve"/>
+      <point x="387.667" y="484.667" type="line"/>
+      <point x="566.333" y="484.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>443</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>381</integer>
+        <key>width</key>
+        <integer>169</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3908627592f04e851dadc6745d706c2eba1fd9831a8c9a553214189104ec4885fb706ae4633fb69c0e675cb06816b13422f0fdb276e24fb5b00b80b5fbf3d1ed</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 9 -21</string>
+          <string>hstem 443.33 41.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

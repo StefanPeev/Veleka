@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni239D" format="2">
+  <advance width="449"/>
+  <unicode hex="239D"/>
+  <outline>
+    <contour>
+      <point x="202" y="1221" type="line" name="n00"/>
+      <point x="202" y="659" type="line" smooth="yes"/>
+      <point x="202" y="366"/>
+      <point x="213" y="40.6667"/>
+      <point x="418" y="-203.333" type="curve"/>
+      <point x="382.667" y="-244" type="line"/>
+      <point x="147.667" y="-21"/>
+      <point x="91.3333" y="269"/>
+      <point x="91.3333" y="635" type="curve" smooth="yes"/>
+      <point x="91.3333" y="1221" type="line" name="n09"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-244</integer>
+        <key>width</key>
+        <integer>1465</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>98</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w449m202,1221l202,659c202,366 213,40.67 418,-203.33l382.67,-244c147.67,-21 91.33,269 91.33,635l91.33,1221</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1221 -20</string>
+          <string>vstem 91.33 110.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

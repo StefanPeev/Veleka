@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.RetroHook" format="2">
+  <advance width="520"/>
+  <outline>
+    <component base="a"/>
+    <contour>
+      <point x="381" y="-159.029" type="curve" smooth="yes"/>
+      <point x="381" y="-201"/>
+      <point x="324" y="-228" name="n02"/>
+      <point x="259.179" y="-228" type="curve" smooth="yes"/>
+      <point x="192" y="-228"/>
+      <point x="156" y="-199"/>
+      <point x="156" y="-144" type="curve" smooth="yes" name="n06"/>
+      <point x="156" y="-134"/>
+      <point x="157" y="-123"/>
+      <point x="159" y="-112" type="curve" smooth="yes"/>
+      <point x="186" y="24" type="line"/>
+      <point x="237" y="24" type="line"/>
+      <point x="210" y="-117" type="line" smooth="yes"/>
+      <point x="209.211" y="-121.118"/>
+      <point x="205.745" y="-138.918"/>
+      <point x="205.708" y="-146.317" type="curve" smooth="yes" name="n15"/>
+      <point x="205.614" y="-165.239"/>
+      <point x="222.751" y="-176"/>
+      <point x="255" y="-176" type="curve"/>
+      <point x="347" y="-106" type="line"/>
+      <point x="365.887" y="-112.081"/>
+      <point x="381" y="-137.418"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-229</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>446</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>472</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>32</integer>
+        <key>width</key>
+        <integer>99</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>155</integer>
+        <key>width</key>
+        <integer>51</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>319</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3d9fbb6f24be8fdc39775f76736866a0463e669811cbed0325ab5a2963d33f823e788837c2887cf708aff4877ba5be12d59f459f3f5556ab2d44a2abf95dc679</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -207 -21</string>
+          <string>vstem 156 49.71</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

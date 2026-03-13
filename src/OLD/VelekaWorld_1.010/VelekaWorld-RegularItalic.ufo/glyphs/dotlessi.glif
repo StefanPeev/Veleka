@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="266"/>
+  <unicode hex="0131"/>
+  <anchor x="160" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="263" y="29" type="line"/>
+      <point x="248" y="22"/>
+      <point x="172" y="-12"/>
+      <point x="117" y="-12" type="curve" smooth="yes" name="n03"/>
+      <point x="62.3966" y="-12"/>
+      <point x="45.1913" y="21.5294"/>
+      <point x="45.1913" y="58.5577" type="curve" smooth="yes"/>
+      <point x="45.1913" y="67.6423"/>
+      <point x="46.2269" y="76.9376"/>
+      <point x="48" y="86" type="curve" smooth="yes"/>
+      <point x="112" y="425" type="line"/>
+      <point x="26" y="434" type="line"/>
+      <point x="26" y="463" type="line"/>
+      <point x="177" y="494" type="line" name="n13"/>
+      <point x="218" y="494" type="line"/>
+      <point x="142" y="94" type="line" smooth="yes"/>
+      <point x="141.413" y="90.8303"/>
+      <point x="141.129" y="87.702"/>
+      <point x="141.129" y="84.649" type="curve" smooth="yes"/>
+      <point x="141.129" y="61.6958"/>
+      <point x="157.17" y="43"/>
+      <point x="181" y="43" type="curve" smooth="yes" name="n21"/>
+      <point x="204" y="43"/>
+      <point x="249.575" y="61"/>
+      <point x="263" y="67" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>484</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>26</integer>
+        <key>width</key>
+        <integer>237</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ee85e461f13086660f2d2eb0f1ec396277b90a6a33beacdf58c254344e358e664da0cff85548844bdaa927bd4ab855633499000c689a1e3a89e4fd69219fe4d7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 55</string>
+          <string>hstem 494 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

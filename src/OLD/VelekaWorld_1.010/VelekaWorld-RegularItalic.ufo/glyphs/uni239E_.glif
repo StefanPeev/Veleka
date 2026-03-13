@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni239E" format="2">
+  <advance width="439"/>
+  <unicode hex="239E"/>
+  <outline>
+    <contour>
+      <point x="254" y="-464" type="line" name="n00"/>
+      <point x="254" y="49" type="line" smooth="yes"/>
+      <point x="254" y="342"/>
+      <point x="244" y="674"/>
+      <point x="39" y="918" type="curve"/>
+      <point x="73" y="952" type="line"/>
+      <point x="308" y="729"/>
+      <point x="342" y="439"/>
+      <point x="342" y="73" type="curve" smooth="yes"/>
+      <point x="342" y="-464" type="line" name="n09"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-464</integer>
+        <key>width</key>
+        <integer>1416</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>254</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w439m254,-464l254,49c254,342 244,674 39,918l73,952c308,729 342,439 342,73l342,-464</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -443 -21</string>
+          <string>vstem 254 88</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

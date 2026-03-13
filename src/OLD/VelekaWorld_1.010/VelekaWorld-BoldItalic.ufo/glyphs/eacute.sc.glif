@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.sc" format="2">
+  <advance width="552"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="522" y="749" type="curve" smooth="yes"/>
+      <point x="522" y="736"/>
+      <point x="511" y="715"/>
+      <point x="496" y="707" type="curve" smooth="yes"/>
+      <point x="335" y="618" type="line"/>
+      <point x="265" y="618" type="line"/>
+      <point x="402" y="770" type="line" smooth="yes"/>
+      <point x="424" y="795"/>
+      <point x="438" y="801" name="n08"/>
+      <point x="465" y="801" type="curve" smooth="yes"/>
+      <point x="508" y="801"/>
+      <point x="522" y="773"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>618</integer>
+        <key>width</key>
+        <integer>181</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>250</integer>
+        <key>width</key>
+        <integer>244</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w552m522,749c522,736 511,715 496,707l335,618l265,618l402,770c424,795 438,801 465,801c508,801 522,773 522,749</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 801 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

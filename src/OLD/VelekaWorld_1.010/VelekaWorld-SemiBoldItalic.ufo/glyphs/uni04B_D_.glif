@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BD" format="2">
+  <advance width="594"/>
+  <unicode hex="04BD"/>
+  <outline>
+    <contour>
+      <point x="435.333" y="196" type="curve" name="n00"/>
+      <point x="408" y="181.628"/>
+      <point x="391.333" y="155.781"/>
+      <point x="391.333" y="164" type="curve"/>
+      <point x="365.333" y="152"/>
+      <point x="313.667" y="123.667"/>
+      <point x="263.333" y="123.667" type="curve" smooth="yes" name="n06"/>
+      <point x="212.333" y="123.667"/>
+      <point x="155" y="146.333"/>
+      <point x="159.333" y="238" type="curve"/>
+      <point x="156.706" y="241.744"/>
+      <point x="145.97" y="232.604"/>
+      <point x="144" y="236.333" type="curve"/>
+      <point x="95" y="233.333"/>
+      <point x="57.3333" y="259.333"/>
+      <point x="68.3333" y="310.667" type="curve"/>
+      <point x="79.6667" y="395.667"/>
+      <point x="142.333" y="459.667"/>
+      <point x="206" y="459.667" type="curve" smooth="yes" name="n18"/>
+      <point x="256" y="459.667"/>
+      <point x="283" y="428.667"/>
+      <point x="293" y="399.667" type="curve" name="n21"/>
+      <point x="287.169" y="352.562"/>
+      <point x="205.043" y="283.447"/>
+      <point x="159" y="269.333" type="curve"/>
+      <point x="167" y="253.667"/>
+      <point x="183.333" y="239.333"/>
+      <point x="204" y="235.333" type="curve" name="n27"/>
+      <point x="226.667" y="294"/>
+      <point x="307" y="349.333"/>
+      <point x="419" y="349.333" type="curve" smooth="yes" name="n30"/>
+      <point x="499" y="349.333"/>
+      <point x="545.667" y="318.333"/>
+      <point x="570" y="311.667" type="curve"/>
+      <point x="570" y="238.696"/>
+      <point x="466.667" y="184.443"/>
+      <point x="378" y="173.333" type="curve"/>
+      <point x="365" y="153.333"/>
+      <point x="339" y="122"/>
+      <point x="308.667" y="114.667" type="curve" name="n39"/>
+      <point x="288.333" y="68.6667"/>
+      <point x="268.333" y="44.6667"/>
+      <point x="305.667" y="95.3333" type="curve" name="n42"/>
+      <point x="334.333" y="100"/>
+      <point x="361.667" y="128"/>
+    </contour>
+    <contour>
+      <point x="461.333" y="395.333" type="curve" smooth="yes" name="n45"/>
+      <point x="461.333" y="419.333"/>
+      <point x="451" y="445"/>
+      <point x="420" y="445" type="curve" smooth="yes" name="n48"/>
+      <point x="356.667" y="445"/>
+      <point x="315.333" y="340.667"/>
+      <point x="297.333" y="266.667" type="curve"/>
+      <point x="371.667" y="280"/>
+      <point x="461.333" y="331"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-12</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>218</integer>
+        <key>width</key>
+        <integer>38</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>447</integer>
+        <key>width</key>
+        <integer>46</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>153</integer>
+        <key>width</key>
+        <integer>97</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>448</integer>
+        <key>width</key>
+        <integer>88</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d7f52b533bf395bb58392f8770630a79c322f8800f175b3ed6a936b2eb9a47bc88bbe3b4864fe36fe97751af8cd3301b7a0a85e52446b17cd8cbb1be12f52315</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 123.67 72.33</string>
+          <string>hstem 445 14.67</string>
+          <string>vstem 293 168.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 204. 101.67</string>
+          <string>hstem 114.67 234.67</string>
+          <string>hstem 445 14.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n27</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 123.67 72.33</string>
+          <string>vstem 293 168.33</string>
+          <string>hstem 445 14.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n45</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

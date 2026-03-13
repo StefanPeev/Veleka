@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA720" format="2">
+  <advance width="568"/>
+  <unicode hex="A720"/>
+  <outline>
+    <contour>
+      <point x="625.667" y="635" type="line" name="n00"/>
+      <point x="358.667" y="635" type="line"/>
+      <point x="358.667" y="483" type="line" name="n02"/>
+      <point x="301" y="483" type="line" name="n03"/>
+      <point x="301" y="635" type="line" name="hr02"/>
+      <point x="163.667" y="635" type="line"/>
+      <point x="163.667" y="483" type="line" name="n06"/>
+      <point x="105.667" y="483" type="line" name="n07"/>
+      <point x="105.667" y="693" type="line" name="n08"/>
+      <point x="625.667" y="693" type="line" name="n09"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>635</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>122</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>317</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w568m625.67,635l358.67,635l358.67,483l301,483l301,635l163.67,635l163.67,483l105.67,483l105.67,693l625.67,693</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 58</string>
+          <string>vstem 301 57.67</string>
+          <string>vstem 105.67 58</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 210</string>
+          <string>vstem 301 57.67</string>
+          <string>vstem 105.67 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>n02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 58</string>
+          <string>vstem 301 57.67</string>
+          <string>vstem 105.67 58</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 483 210</string>
+          <string>vstem 105.67 58</string>
+          <string>vstem 301 57.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n06</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 58</string>
+          <string>vstem 105.67 58</string>
+          <string>vstem 301 57.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n00</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

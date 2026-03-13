@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031D" format="2">
+  <unicode hex="031D"/>
+  <outline>
+    <contour>
+      <point x="-248" y="-155" type="line" name="n00"/>
+      <point x="-256" y="-195" type="line" name="n01"/>
+      <point x="-426" y="-195" type="line"/>
+      <point x="-418" y="-155" type="line"/>
+      <point x="-353" y="-155" type="line"/>
+      <point x="-339" y="-85" type="line" name="n05"/>
+      <point x="-299" y="-85" type="line"/>
+      <point x="-313" y="-155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-195</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-426</integer>
+        <key>width</key>
+        <integer>178</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-248,-155l-256,-195l-426,-195l-418,-155l-353,-155l-339,-85l-299,-85l-313,-155</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -195 40</string>
+          <string>hstem -85 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

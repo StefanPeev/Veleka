@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA717" format="2">
+  <advance width="256"/>
+  <unicode hex="A717"/>
+  <outline>
+    <contour>
+      <point x="255.333" y="483.667" type="line" name="n00"/>
+      <point x="176.667" y="483.667" type="line" name="n01"/>
+      <point x="176.667" y="811.333" type="line" name="n02"/>
+      <point x="255.333" y="811.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="132.667" y="647" type="curve" smooth="yes" name="n04"/>
+      <point x="132.667" y="622"/>
+      <point x="111.667" y="601.667"/>
+      <point x="87.3333" y="601.667" type="curve" smooth="yes" name="n07"/>
+      <point x="63" y="601.667"/>
+      <point x="42" y="622"/>
+      <point x="42" y="647" type="curve" smooth="yes" name="n10"/>
+      <point x="42" y="671.333"/>
+      <point x="62.3333" y="693.667"/>
+      <point x="87.3333" y="693.667" type="curve" smooth="yes" name="n13"/>
+      <point x="112.333" y="693.667"/>
+      <point x="132.667" y="671.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>609</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>77</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>202</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d61b981ed9a32978ac9ac3c31d0e24b7c37bbe44f45ad4a5da90be415a97ba9386e44107d5960af7f07325b1e0e79f9b6ebe92bd5c8456c944ccdb5ce72029d3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 504.67 -21</string>
+          <string>hstem 601.67 92</string>
+          <string>hstem 811.33 -20</string>
+          <string>vstem 42 90.67</string>
+          <string>vstem 176.67 78.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

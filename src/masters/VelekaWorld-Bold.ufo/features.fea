@@ -11,6 +11,8 @@
 @sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
 @letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
 @letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
+@cyrlDFLT = [uni0414 uni0416 uni041A uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0444 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni0453 uni045D uni2DE1 uni2DE2 uni2DE3 uni2DE4 uni2DE5 uni2DE6 uni2DE7 uni2DE9 uni2DEB uni2DEE uni2DF0 uni2DF1 uni2DF2 uni2DF3 uni2DF5 uni2DFB];
+@loclBGR = [uni0414.loclBGR uni0416.loclBGR uni041A.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043D.loclBGR uni043F.loclBGR uni0442.loclBGR uni0444.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni0453.loclBGR uni045D.loclBGR uni2DE1.loclBGR uni2DE2.loclBGR uni2DE3.loclBGR uni2DE4.loclBGR uni2DE5.loclBGR uni2DE6.loclBGR uni2DE7.loclBGR uni2DE9.loclBGR uni2DEB.loclBGR uni2DEE.loclBGR uni2DF0.loclBGR uni2DF1.loclBGR uni2DF2.loclBGR uni2DF3.loclBGR uni2DF5.loclBGR uni2DFB.loclBGR];
 #/< otclasses
 
 #/> kernclasses
@@ -53,214 +55,6 @@
 @_uni042A = [uni042A uni042A0300 uni042A0301 uni0462 uni04A0 uni04B4 uniA650 uniA68A uniA68C uniA692];
 #/< kernclasses
 #< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
-
-#/> classes
-#/> otclasses
-@dnom_numr_sinf_subs_sups_frac = [zero one two three four five six seven eight nine];
-@subs = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@sinf = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@tosf = [zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
-@osf = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
-@fitted = [zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted];
-@sups = [uni2070 uni00B9 uni00B2 uni00B3 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
-@letter_sups = [A AE B D E G H Hbar I J K L M N O P R T U V W a b beta c chi d delta e eng equal eth f g gamma h j k l m minus n o oe p parenleft parenright phi plus r s t theta u uni018E uni01AB uni0222 uni0250 uni0251 uni0252 uni0254 uni0255 uni0259 uni025B uni025C uni025F uni0261 uni0263 uni0265 uni0266 uni0268 uni0269 uni026A uni026D uni026F uni0270 uni0271 uni0272 uni0273 uni0274 uni0275 uni0278 uni0279 uni027B uni0281 uni0282 uni0283 uni0289 uni028A uni028B uni028C uni0290 uni0291 uni0292 uni0295 uni029D uni029F uni043D uni044A uni044C uni1D02 uni1D16 uni1D17 uni1D1C uni1D1D uni1D25 uni1D7B uni1D85 uniA76F v w x y z];
-@letter_sups2 = [uni1D2C uni1D2D uni1D2E uni1D30 uni1D31 uni1D33 uni1D34 uniA7F8 uni1D35 uni1D36 uni1D37 uni1D38 uni1D39 uni1D3A uni1D3C uni1D3E uni1D3F uni1D40 uni1D41 uni2C7D uni1D42 uni1D43 uni1D47 uni1D5D uni1D9C uni1D61 uni1D48 uni1D5F uni1D49 uni1D51 uni207C uni1D9E uni1DA0 uni1D4D uni1D5E uni02B0 uni02B2 uni1D4F uni02E1 uni1D50 uni207B uni207F uni1D52 uniA7F9 uni1D56 uni207D uni207E uni1D60 uni207A uni02B3 uni02E2 uni1D57 uni1DBF uni1D58 uni1D32 uni1DB5 uni1D3D uni1D44 uni1D45 uni1D9B uni1D53 uni1D9D uni1D4A uni1D4B uni1D9F uni1DA1 uni1DA2 uni02E0 uni1DA3 uni02B1 uni1DA4 uni1DA5 uni1DA6 uni1DA9 uni1D5A uni1DAD uni1DAC uni1DAE uni1DAF uni1DB0 uni1DB1 uni1DB2 uni02B4 uni02B5 uni02B6 uni1DB3 uni1DB4 uni1DB6 uni1DB7 uni1DB9 uni1DBA uni1DBC uni1DBD uni1DBE uni02E4 uni1DA8 uni1DAB uni1D78 uniA69C uniA69D uni1D46 uni1D54 uni1D55 uni1DB8 uni1D59 uni1D5C uni1DA7 uni1DAA uniA770 uni1D5B uni02B7 uni02E3 uni02B8 uni1DBB];
-#/< otclasses
-
-#/> kernclasses
-@uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
-@uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
-@uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
-@_uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
-@_uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
-@_uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
-@_uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
-#/< kernclasses
-#/< classes
 
 #> languagesystem
 languagesystem DFLT dflt;
@@ -326,27 +120,15 @@ lookup pnum {
 } pnum;
 
 lookup lnum {
-# GSUB lookup 08, type 1 (Single)
+# GSUB lookup 09, type 1 (Single)
   sub @tosf by @fitted;
   sub @osf by @dnom_numr_sinf_subs_sups_frac;
 } lnum;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+lookup cyrlDFLT_loclBGR {
+# GSUB lookup 10, type 1 (Single)
+  sub @cyrlDFLT by @loclBGR;
+} cyrlDFLT_loclBGR;
 feature aalt {
 # Access All Alternates
 
@@ -366,7 +148,6 @@ feature aalt {
   feature c2sc;
   feature salt;
   feature hist;
-  feature ss01;
   feature cv01;
 #< feature
 } aalt;
@@ -376,50 +157,7 @@ feature locl {
 #> feature
   script cyrl; # Cyrillic
   language BGR; # Bulgarian
-  sub uni0414 by uni0414.loclBGR;
-  sub uni0416 by uni0416.loclBGR;
-  sub uni041A by uni041A.loclBGR;
-  sub uni041B by uni041B.loclBGR;
-  sub uni0424 by uni0424.loclBGR;
-  sub uni0432 by uni0432.loclBGR;
-  sub uni0433 by uni0433.loclBGR;
-  sub uni0434 by uni0434.loclBGR;
-  sub uni0436 by uni0436.loclBGR;
-  sub uni0437 by uni0437.loclBGR;
-  sub uni0438 by uni0438.loclBGR;
-  sub uni0439 by uni0439.loclBGR;
-  sub uni043A by uni043A.loclBGR;
-  sub uni043B by uni043B.loclBGR;
-  sub uni043D by uni043D.loclBGR;
-  sub uni043F by uni043F.loclBGR;
-  sub uni0442 by uni0442.loclBGR;
-  sub uni0444 by uni0444.loclBGR;
-  sub uni0446 by uni0446.loclBGR;
-  sub uni0447 by uni0447.loclBGR;
-  sub uni0448 by uni0448.loclBGR;
-  sub uni0449 by uni0449.loclBGR;
-  sub uni044A by uni044A.loclBGR;
-  sub uni044B by uni044B.loclBGR;
-  sub uni044C by uni044C.loclBGR;
-  sub uni044E by uni044E.loclBGR;
-  sub uni0453 by uni0453.loclBGR;
-  sub uni045D by uni045D.loclBGR;
-  sub uni2DE1 by uni2DE1.loclBGR;
-  sub uni2DE2 by uni2DE2.loclBGR;
-  sub uni2DE3 by uni2DE3.loclBGR;
-  sub uni2DE4 by uni2DE4.loclBGR;
-  sub uni2DE5 by uni2DE5.loclBGR;
-  sub uni2DE6 by uni2DE6.loclBGR;
-  sub uni2DE7 by uni2DE7.loclBGR;
-  sub uni2DE9 by uni2DE9.loclBGR;
-  sub uni2DEB by uni2DEB.loclBGR;
-  sub uni2DEE by uni2DEE.loclBGR;
-  sub uni2DF0 by uni2DF0.loclBGR;
-  sub uni2DF1 by uni2DF1.loclBGR;
-  sub uni2DF2 by uni2DF2.loclBGR;
-  sub uni2DF3 by uni2DF3.loclBGR;
-  sub uni2DF5 by uni2DF5.loclBGR;
-  sub uni2DFB by uni2DFB.loclBGR;
+  lookup cyrlDFLT_loclBGR;
 
   language SRB; # Serbian
   sub uni0431 by uni0431.loclSRB;
@@ -444,507 +182,87 @@ feature locl {
   sub i by idotaccent;
 #< feature
 } locl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature sups {
 # Superscript
 
 #> feature
-  sub A by uni1D2C;
-  sub AE by uni1D2D;
-  sub B by uni1D2E;
-  sub D by uni1D30;
-  sub E by uni1D31;
-  sub G by uni1D33;
-  sub H by uni1D34;
-  sub Hbar by uniA7F8;
-  sub I by uni1D35;
-  sub J by uni1D36;
-  sub K by uni1D37;
-  sub L by uni1D38;
-  sub M by uni1D39;
-  sub N by uni1D3A;
-  sub O by uni1D3C;
-  sub P by uni1D3E;
-  sub R by uni1D3F;
-  sub T by uni1D40;
-  sub U by uni1D41;
-  sub V by uni2C7D;
-  sub W by uni1D42;
-  sub a by uni1D43;
-  sub b by uni1D47;
-  sub beta by uni1D5D;
-  sub c by uni1D9C;
-  sub chi by uni1D61;
-  sub d by uni1D48;
-  sub delta by uni1D5F;
-  sub e by uni1D49;
-  sub eight by uni2078;
-  sub eng by uni1D51;
-  sub equal by uni207C;
-  sub eth by uni1D9E;
-  sub f by uni1DA0;
-  sub five by uni2075;
-  sub four by uni2074;
-  sub g by uni1D4D;
-  sub gamma by uni1D5E;
-  sub h by uni02B0;
-  sub j by uni02B2;
-  sub k by uni1D4F;
-  sub l by uni02E1;
-  sub m by uni1D50;
-  sub minus by uni207B;
-  sub n by uni207F;
-  sub nine by uni2079;
-  sub o by uni1D52;
-  sub oe by uniA7F9;
-  sub one by uni00B9;
-  sub p by uni1D56;
-  sub parenleft by uni207D;
-  sub parenright by uni207E;
-  sub phi by uni1D60;
-  sub plus by uni207A;
-  sub r by uni02B3;
-  sub s by uni02E2;
-  sub seven by uni2077;
-  sub six by uni2076;
-  sub t by uni1D57;
-  sub theta by uni1DBF;
-  sub three by uni00B3;
-  sub two by uni00B2;
-  sub u by uni1D58;
-  sub uni018E by uni1D32;
-  sub uni01AB by uni1DB5;
-  sub uni0222 by uni1D3D;
-  sub uni0250 by uni1D44;
-  sub uni0251 by uni1D45;
-  sub uni0252 by uni1D9B;
-  sub uni0254 by uni1D53;
-  sub uni0255 by uni1D9D;
-  sub uni0259 by uni1D4A;
-  sub uni025B by uni1D4B;
-  sub uni025C by uni1D9F;
-  sub uni025F by uni1DA1;
-  sub uni0261 by uni1DA2;
-  sub uni0263 by uni02E0;
-  sub uni0265 by uni1DA3;
-  sub uni0266 by uni02B1;
-  sub uni0268 by uni1DA4;
-  sub uni0269 by uni1DA5;
-  sub uni026A by uni1DA6;
-  sub uni026D by uni1DA9;
-  sub uni026F by uni1D5A;
-  sub uni0270 by uni1DAD;
-  sub uni0271 by uni1DAC;
-  sub uni0272 by uni1DAE;
-  sub uni0273 by uni1DAF;
-  sub uni0274 by uni1DB0;
-  sub uni0275 by uni1DB1;
-  sub uni0278 by uni1DB2;
-  sub uni0279 by uni02B4;
-  sub uni027B by uni02B5;
-  sub uni0281 by uni02B6;
-  sub uni0282 by uni1DB3;
-  sub uni0283 by uni1DB4;
-  sub uni0289 by uni1DB6;
-  sub uni028A by uni1DB7;
-  sub uni028B by uni1DB9;
-  sub uni028C by uni1DBA;
-  sub uni0290 by uni1DBC;
-  sub uni0291 by uni1DBD;
-  sub uni0292 by uni1DBE;
-  sub uni0295 by uni02E4;
-  sub uni029D by uni1DA8;
-  sub uni029F by uni1DAB;
-  sub uni043D by uni1D78;
-  sub uni044A by uniA69C;
-  sub uni044C by uniA69D;
-  sub uni1D02 by uni1D46;
-  sub uni1D16 by uni1D54;
-  sub uni1D17 by uni1D55;
-  sub uni1D1C by uni1DB8;
-  sub uni1D1D by uni1D59;
-  sub uni1D25 by uni1D5C;
-  sub uni1D7B by uni1DA7;
-  sub uni1D85 by uni1DAA;
-  sub uniA76F by uniA770;
-  sub v by uni1D5B;
-  sub w by uni02B7;
-  sub x by uni02E3;
-  sub y by uni02B8;
-  sub z by uni1DBB;
-  sub zero by uni2070;
+
+  lookup sups;
+
 #< feature
 } sups;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature subs {
 # Subscript
 
 #> feature
-  sub a by uni2090;
-  sub beta by uni1D66;
-  sub chi by uni1D6A;
-  sub e by uni2091;
-  sub eight by uni2088;
-  sub equal by uni208C;
-  sub five by uni2085;
-  sub four by uni2084;
-  sub gamma by uni1D67;
-  sub h by uni2095;
-  sub i by uni1D62;
-  sub j by uni2C7C;
-  sub k by uni2096;
-  sub l by uni2097;
-  sub m by uni2098;
-  sub minus by uni208B;
-  sub n by uni2099;
-  sub nine by uni2089;
-  sub o by uni2092;
-  sub one by uni2081;
-  sub p by uni209A;
-  sub parenleft by uni208D;
-  sub parenright by uni208E;
-  sub phi by uni1D69;
-  sub plus by uni208A;
-  sub r by uni1D63;
-  sub rho by uni1D68;
-  sub s by uni209B;
-  sub seven by uni2087;
-  sub six by uni2086;
-  sub t by uni209C;
-  sub three by uni2083;
-  sub two by uni2082;
-  sub u by uni1D64;
-  sub uni0259 by uni2094;
-  sub v by uni1D65;
-  sub x by uni2093;
-  sub zero by zero.subs;
+
+  lookup subs;
+
 #< feature
 } subs;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature sinf {
 # Scientific Inferiors
 
 #> feature
-  sub eight by uni2088;
-  sub equal by uni208C;
-  sub five by uni2085;
-  sub four by uni2084;
-  sub minus by uni208B;
-  sub nine by uni2089;
-  sub one by uni2081;
-  sub parenleft by uni208D;
-  sub parenright by uni208E;
-  sub plus by uni208A;
-  sub seven by uni2087;
-  sub six by uni2086;
-  sub three by uni2083;
-  sub two by uni2082;
-  sub zero by uni2080;
+
+  sub @dnom_numr_sinf_subs_sups_frac by @sinf;
+
 #< feature
 } sinf;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature numr {
 # Numerator
 
 #> feature
-  sub eight by eight.numr;
-  sub five by five.numr;
-  sub four by four.numr;
-  sub nine by nine.numr;
-  sub one by one.numr;
-  sub seven by seven.numr;
-  sub six by six.numr;
-  sub three by three.numr;
-  sub two by two.numr;
-  sub zero by zero.numr;
+
+  lookup numr;
+
 #< feature
 } numr;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature dnom {
 # Denominator
 
 #> feature
-  sub eight by eight.dnom;
-  sub five by five.dnom;
-  sub four by four.dnom;
-  sub nine by nine.dnom;
-  sub one by one.dnom;
-  sub seven by seven.dnom;
-  sub six by six.dnom;
-  sub three by three.dnom;
-  sub two by two.dnom;
-  sub zero by zero.dnom;
+
+  lookup dnom;
+
 #< feature
 } dnom;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature pnum {
 # Proportional Figures
 
 #> feature
-  sub eight.tosf by eight.osf;
-  sub eight.fitted by eight;
-  sub five.tosf by five.osf;
-  sub five.fitted by five;
-  sub four.tosf by four.osf;
-  sub four.fitted by four;
-  sub nine.tosf by nine.osf;
-  sub nine.fitted by nine;
-  sub one.tosf by one.osf;
-  sub one.fitted by one;
-  sub seven.tosf by seven.osf;
-  sub seven.fitted by seven;
-  sub six.tosf by six.osf;
-  sub six.fitted by six;
-  sub three.tosf by three.osf;
-  sub three.fitted by three;
-  sub two.tosf by two.osf;
-  sub two.fitted by two;
-  sub zero.tosf by zero.osf;
-  sub zero.fitted by zero;
+
+  lookup pnum;
+
 #< feature
 } pnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature tnum {
 # Tabular Figures
 
 #> feature
-  sub eight.osf by eight.tosf;
-  sub eight by eight.fitted;
-  sub five.osf by five.tosf;
-  sub five by five.fitted;
-  sub four.osf by four.tosf;
-  sub four by four.fitted;
-  sub nine.osf by nine.tosf;
-  sub nine by nine.fitted;
-  sub one.osf by one.tosf;
-  sub one by one.fitted;
-  sub seven.osf by seven.tosf;
-  sub seven by seven.fitted;
-  sub six.osf by six.tosf;
-  sub six by six.fitted;
-  sub three.osf by three.tosf;
-  sub three by three.fitted;
-  sub two.osf by two.tosf;
-  sub two by two.fitted;
-  sub zero.osf by zero.tosf;
-  sub zero by zero.fitted;
+
+  lookup tnum;
+
 #< feature
 } tnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature onum {
 # Oldstyle Figures
 
 #> feature
-  sub eight.fitted by eight.tosf;
-  sub eight by eight.osf;
-  sub five.fitted by five.tosf;
-  sub five by five.osf;
-  sub four.fitted by four.tosf;
-  sub four by four.osf;
-  sub nine.fitted by nine.tosf;
-  sub nine by nine.osf;
-  sub one.fitted by one.tosf;
-  sub one by one.osf;
-  sub seven.fitted by seven.tosf;
-  sub seven by seven.osf;
-  sub six.fitted by six.tosf;
-  sub six by six.osf;
-  sub three.fitted by three.tosf;
-  sub three by three.osf;
-  sub two.fitted by two.tosf;
-  sub two by two.osf;
-  sub zero.fitted by zero.tosf;
-  sub zero by zero.osf;
+
+  lookup onum;
+
 #< feature
 } onum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature lnum {
 # Lining Figures
 
 #> feature
-  sub eight.tosf by eight.fitted;
-  sub eight.osf by eight;
-  sub five.tosf by five.fitted;
-  sub five.osf by five;
-  sub four.tosf by four.fitted;
-  sub four.osf by four;
-  sub nine.tosf by nine.fitted;
-  sub nine.osf by nine;
-  sub one.tosf by one.fitted;
-  sub one.osf by one;
-  sub seven.tosf by seven.fitted;
-  sub seven.osf by seven;
-  sub six.tosf by six.fitted;
-  sub six.osf by six;
-  sub three.tosf by three.fitted;
-  sub three.osf by three;
-  sub two.tosf by two.fitted;
-  sub two.osf by two;
-  sub zero.tosf by zero.fitted;
-  sub zero.osf by zero;
+
+  lookup lnum;
+
 #< feature
 } lnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature frac {
 # Fractions
 
@@ -1028,23 +346,6 @@ lookup frac_dnom {
 
 #< feature
 } frac;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ordn {
 # Ordinals
 
@@ -1054,23 +355,6 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature titl {
 # Titling Alternates
 
@@ -1103,23 +387,6 @@ feature titl {
   sub Z by Z.titl;
 #< feature
 } titl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature smcp {
 # Small Caps
 
@@ -1695,23 +962,6 @@ feature smcp {
   sub zdotaccent by zdotaccent.sc;
 #< feature
 } smcp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature c2sc {
 # Capitals to Small Caps
 
@@ -2278,23 +1528,6 @@ feature c2sc {
   sub uniA7B1 by uni0287.sc;
 #< feature
 } c2sc;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature salt {
 # Stylistic Alternates
 
@@ -2310,23 +1543,6 @@ feature salt {
   sub uni0443 from [uni0443.alt];
 #< feature
 } salt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature hist {
 # Historical Forms
 
@@ -2334,23 +1550,6 @@ feature hist {
   sub s by longs;
 #< feature
 } hist;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature dlig {
 # Discretionary Ligatures
 
@@ -2358,24 +1557,72 @@ feature dlig {
   sub c t by c_t;
 #< feature
 } dlig;
+feature ccmp {
+# Glyph Composition/Decomposition
 
+#> feature
+  sub uni0302 uni0300 by uni03020300;
+  sub uni0302 uni0301 by uni03020301;
+  sub uni0302 uni0309 by uni03020309;
+  sub uni0410 uni0300 by uni04100300;
+  sub uni0410 uni0301 by uni04100301;
+  sub uni041E uni0300 by uni041E0300;
+  sub uni041E uni0301 by uni041E0301;
+  sub uni0423 uni0300 by uni04230300;
+  sub uni0423 uni0301 by uni04230301;
+  sub uni042A uni0300 by uni042A0300;
+  sub uni042A uni0301 by uni042A0301;
+  sub uni042B uni0300 by uni042B0300;
+  sub uni042B uni0301 by uni042B0301;
+  sub uni042D uni0300 by uni042D0300;
+  sub uni042D uni0301 by uni042D0301;
+  sub uni042E uni0300 by uni042E0300;
+  sub uni042E uni0301 by uni042E0301;
+  sub uni042F uni0300 by uni042F0300;
+  sub uni042F uni0301 by uni042F0301;
+  sub uni0430 uni0300 by uni04300300;
+  sub uni0430 uni0301 by uni04300301;
+  sub uni0438 uni0301 by uni04380301;
+  sub uni043E uni0300 by uni043E0300;
+  sub uni043E uni0301 by uni043E0301;
+  sub uni0443 uni0300 by uni04430300;
+  sub uni0443 uni0301 by uni04430301;
+  sub uni044A uni0300 by uni044A0300;
+  sub uni044A uni0301 by uni044A0301;
+  sub uni044B uni0300 by uni044B0300;
+  sub uni044B uni0301 by uni044B0301;
+  sub uni044D uni0300 by uni044D0300;
+  sub uni044D uni0301 by uni044D0301;
+  sub uni044E uni0300 by uni044E0300;
+  sub uni044E uni0301 by uni044E0301;
+  sub uni044F uni0300 by uni044F0300;
+  sub uni044F uni0301 by uni044F0301;
+#< feature
+} ccmp;
+feature cv01 {
+# Character Variant 01—99
 
+#> feature
 
+  sub uni0430 by uni0430.cv01;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#< feature
+} cv01;
 feature ss01 {
+# Stylistic Set 01–20
+
+  featureNames {
+    name "Bulgarian Cyrillic";
+    name 1 "Bulgarian Cyrillic";
+  };
+
+#> feature
+
+  lookup cyrlDFLT_loclBGR;
+
+#< feature
+} ss01;
+feature ss02 {
 # Stylistic Set 01–20
 
   featureNames {
@@ -2421,83 +1668,94 @@ feature ss01 {
   sub uni044F uni0300 by uni044F0300;
   sub uni044F uni0301 by uni044F0301;
 #< feature
-} ss01;
+} ss02;
+feature kern {
+  @_uni0410_ = [uni0410 uni04100300 uni041B.loclBGR uni0466 uni0468 uni04D0 uni04D2 uniA656 uniA658 uniA65C];
+  @_uni0412_ = [uni0411 uni0412 uni0417];
+  @_uni0413_ = [uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA];
+  @_uni0414_ = [uni0414 uni0426 uni0429 uni04B4 uni052C uni052E uniA680 uniA688 uniA68E uniA696];
+  @_uni041A_ = [uni040C uni0416 uni041A uni0496 uni049A uni049C uni049E uni04A0 uni04C1 uni04C3 uni04DC uni051E uni052A uniA684];
+  @_uni041E_ = [uni041E uni041E0300 uni041E0301 uni042D uni042D0300 uni042D0301 uni042E uni0472 uni04D8 uni04DA uni04E6 uni04E8 uni04EA uni051A];
+  @_uni043E_ = [uni043E uni0473 uni04E7 uni04E9 uni04EB];
+  @_uni0420_ = [uni0420 uni048E];
+  @_uni0423_ = [uni040E uni0423 uni04230300 uni04230301 uni04EE uni04F0 uni04F2];
+  @_uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB];
+  @_uni043A_ = [uni043A uni045C uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685];
+  @_uni0402_ = [uni0402 uni0409 uni040A uni042A uni042A0300 uni042A0301 uni042C uni0462 uni048C uniA64E];
+  @_uni044A_ = [uni044A uni044A0300 uni044A0301 uni044C uni0459 uni045A uni0463 uni048D uniA64F];
+  @_uni0414.loclBGR_ = [uni0414.loclBGR];
+  @_uni0425_ = [uni0416.loclBGR uni041A.loclBGR uni0425 uni04B2 uni04FC uni04FE uni0514 uni0516];
+  @__uni0423 = [uni040E uni0423 uni04230300 uni04230301 uni04EE uni04F0 uni04F2];
+  @__uni0427 = [uni0427 uni04B6 uni04B8 uni04CB uni04F4 uni052C];
+  @__uni042A = [uni042A uni042A0300 uni042A0301 uni0462 uni04A0 uni04B4 uniA650 uniA68A uniA68C uniA692];
+  @__uni042F = [uni042F uni042F0300 uni042F0301 uni0518];
+  @__uni041D = [uni0400 uni0401 uni0403 uni0406 uni0407 uni040A uni040C uni040D uni040F uni0411 uni0412 uni0413 uni0415 uni0418 uni0419 uni041A uni041C uni041D uni041F uni0420 uni0426 uni0428 uni0429 uni042B uni042C uni042E uni0464 uni0468 uni046C uni048A uni048E uni0490 uni0492 uni0494 uni049A uni049C uni049E uni04A2 uni04A4 uni04A6 uni04C0 uni04C7 uni04C9 uni04CD uni04CF uni04D6 uni04E2 uni04E4 uni04F6 uni04F8 uni04FA uni050A uni051E uni0522 uni0524 uni0526 uni0528 uniA652 uniA656 uniA65C uniA666 uniA68E uniA696];
+  @__uni0414 = [uni0414 uni052A uniA662 uniA680 uniA688];
+  @__uni0434 = [uni0434 uni052B uniA663 uniA681 uniA689];
+  @__uni041B = [uni0409 uni041B uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uniA664];
+  @__uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F uniA665];
+  @__uni0443 = [uni0443 uni04430300 uni04430301 uni045E uni04EF uni04F1 uni04F3];
+  @__uni043E = [uni0435 uni043E uni0441 uni0444 uni0450 uni0451 uni0454 uni0473 uni0479 uni04AB uni04D7 uni04E7 uni04E9 uni04EB uni050D uni051B uni1C83 uniA655];
+  @__uni0410 = [uni0410 uni04100300 uni041B.loclBGR uni0466 uni04D0 uni04D2 uniA658];
+  @__uni0414.loclBGR = [uni0414.loclBGR];
+  @__uni041E = [uni041E uni041E0300 uni041E0301 uni0421 uni0472 uni0478 uni04AA uni04E6 uni04E8 uni04EA uni050C uni051A uniA654 uniA668 uniA66A uniA66C uniA698 uniA69A];
+  @__uni0422 = [uni0422 uni04AC uni050E uniA690];
+  @__uni0417 = [uni0417 uni042D uni0498 uni04DE uni04EC uniA684];
+  @__uni0425 = [uni0425 uni04B2];
+  @__uni0416 = [uni0416 uni0496 uni04C1 uni04DC];
+  @__uni0442 = [uni0442 uni044A uni044A0300 uni044A0301 uni0463 uni04A1 uni04AD uni04B5 uni050F uniA68B uniA691 uniA693];
 
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos @_uni0410_ @__uni0423 -70;
+    pos @_uni0410_ @__uni0427 -90;
+    pos @_uni0410_ @__uni042A -60;
+    pos @_uni0412_ @__uni0427 -60;
+    pos @_uni0412_ @__uni042F -40;
+    pos @_uni0412_ @__uni041D -20;
+    pos @_uni0412_ @__uni042A -50;
+    pos @_uni0413_ @__uni0414 -140;
+    pos @_uni0413_ @__uni0434 -110;
+    pos @_uni0413_ @__uni041B -130;
+    pos @_uni0413_ @__uni043B -120;
+    pos @_uni0413_ @__uni0443 -40;
+    pos @_uni0414_ @__uni0427 -20;
+    pos @_uni041A_ @__uni043E -44;
+    pos @_uni041A_ @__uni0443 -60;
+    pos @_uni041E_ @__uni0410 -40;
+    pos @_uni041E_ @__uni0414 -110;
+    pos @_uni041E_ @__uni041B -78;
+    pos @_uni043E_ @__uni0434 -60;
+    pos @_uni043E_ @__uni043B -60;
+    pos @_uni0420_ @__uni0410 -90;
+    pos @_uni0420_ @__uni0414 -110;
+    pos @_uni0423_ @__uni0410 -170;
+    pos @_uni0423_ @__uni0414 -120;
+    pos @_uni0423_ @__uni0414.loclBGR -180;
+    pos @_uni0433_ @__uni0414 -120;
+    pos @_uni0433_ @__uni0434 -40;
+    pos @_uni0433_ @__uni041B -110;
+    pos @_uni0433_ @__uni043B -70;
+    pos @_uni043A_ @__uni043E -10;
+    pos @_uni0402_ @__uni0410 -40;
+    pos @_uni0402_ @__uni0414 -90;
+    pos @_uni0402_ @__uni041B -50;
+    pos @_uni0402_ @__uni041E -20;
+    pos @_uni0402_ @__uni0423 -100;
+    pos @_uni0402_ @__uni0427 -100;
+    pos @_uni0402_ @__uni042F -50;
+    pos @_uni0402_ @__uni041D -40;
+    pos @_uni0402_ @__uni0422 -100;
+    pos @_uni0402_ @__uni0417 -20;
+    pos @_uni0402_ @__uni0425 -60;
+    pos @_uni0402_ @__uni0416 -60;
+    pos @_uni0402_ @__uni042A -110;
+    pos @_uni044A_ @__uni0442 -50;
+    pos @_uni0414.loclBGR_ @__uni041E -50;
+    pos @_uni0425_ @__uni041E -70;
+  } KERN_LTR;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-feature ccmp {
-# Glyph Composition/Decomposition
-
-#> feature
-  sub uni0302 uni0300 by uni03020300;
-  sub uni0302 uni0301 by uni03020301;
-  sub uni0302 uni0309 by uni03020309;
-  sub uni0410 uni0300 by uni04100300;
-  sub uni0410 uni0301 by uni04100301;
-  sub uni041E uni0300 by uni041E0300;
-  sub uni041E uni0301 by uni041E0301;
-  sub uni0423 uni0300 by uni04230300;
-  sub uni0423 uni0301 by uni04230301;
-  sub uni042A uni0300 by uni042A0300;
-  sub uni042A uni0301 by uni042A0301;
-  sub uni042B uni0300 by uni042B0300;
-  sub uni042B uni0301 by uni042B0301;
-  sub uni042D uni0300 by uni042D0300;
-  sub uni042D uni0301 by uni042D0301;
-  sub uni042E uni0300 by uni042E0300;
-  sub uni042E uni0301 by uni042E0301;
-  sub uni042F uni0300 by uni042F0300;
-  sub uni042F uni0301 by uni042F0301;
-  sub uni0430 uni0300 by uni04300300;
-  sub uni0430 uni0301 by uni04300301;
-  sub uni0438 uni0301 by uni04380301;
-  sub uni043E uni0300 by uni043E0300;
-  sub uni043E uni0301 by uni043E0301;
-  sub uni0443 uni0300 by uni04430300;
-  sub uni0443 uni0301 by uni04430301;
-  sub uni044A uni0300 by uni044A0300;
-  sub uni044A uni0301 by uni044A0301;
-  sub uni044B uni0300 by uni044B0300;
-  sub uni044B uni0301 by uni044B0301;
-  sub uni044D uni0300 by uni044D0300;
-  sub uni044D uni0301 by uni044D0301;
-  sub uni044E uni0300 by uni044E0300;
-  sub uni044E uni0301 by uni044E0301;
-  sub uni044F uni0300 by uni044F0300;
-  sub uni044F uni0301 by uni044F0301;
-#< feature
-} ccmp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} kern;
 feature mark {
 # GPOS feature : Mark Positioning
     markClass uni0301 <anchor -235 560> @top;
@@ -4355,23 +3613,6 @@ feature mark {
 
   lookup markLTR;
 } mark;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature mkmk {
 # GPOS feature : Mark to Mark Positioning
 #    markClass uni0360 <anchor 0 770> @t.titlo;
@@ -4451,44 +3692,3 @@ feature mkmk {
 
   lookup mkmkLTR;
 } mkmk;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-feature cv01 {
-# Character Variant 01—99
-
-#> feature
-  sub uni0430 by uni0430.cv01;
-#< feature
-} cv01;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

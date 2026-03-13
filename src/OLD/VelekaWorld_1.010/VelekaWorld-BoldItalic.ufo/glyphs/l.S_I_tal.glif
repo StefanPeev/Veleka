@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.SItal" format="2">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="336" y="737" type="line" name="n00"/>
+      <point x="205" y="73" type="line"/>
+      <point x="202" y="60"/>
+      <point x="209" y="50"/>
+      <point x="222" y="50" type="curve"/>
+      <point x="276" y="47" type="line"/>
+      <point x="276" y="0" type="line" name="n06"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="-14" y="47" type="line"/>
+      <point x="44" y="50" type="line"/>
+      <point x="58" y="50"/>
+      <point x="69" y="60"/>
+      <point x="71" y="73" type="curve"/>
+      <point x="185" y="646" type="line"/>
+      <point x="99" y="646" type="line"/>
+      <point x="99" y="687" type="line"/>
+      <point x="285" y="737" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>42</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>727</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>301</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w337m336,737l205,73c202,60 209,50 222,50l276,47l276,0l-14,0l-14,47l44,50c58,50 69,60 71,73l185,646l99,646l99,687l285,737</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 737 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

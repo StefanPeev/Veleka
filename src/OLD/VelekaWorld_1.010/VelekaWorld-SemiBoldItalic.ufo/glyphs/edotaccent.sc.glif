@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.sc" format="2">
+  <advance width="539"/>
+  <outline>
+    <component base="e.sc"/>
+    <contour>
+      <point x="423" y="716" type="curve" smooth="yes" name="n00"/>
+      <point x="423" y="681"/>
+      <point x="395.333" y="652"/>
+      <point x="359.667" y="652" type="curve" smooth="yes" name="n03"/>
+      <point x="323.333" y="652"/>
+      <point x="295.667" y="679.667"/>
+      <point x="295.667" y="716" type="curve" smooth="yes" name="n06"/>
+      <point x="295.667" y="753"/>
+      <point x="321.667" y="784"/>
+      <point x="359" y="784" type="curve" smooth="yes" name="n09"/>
+      <point x="395.333" y="784"/>
+      <point x="423" y="754"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>260</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>500</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>652</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>538</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>295</integer>
+        <key>width</key>
+        <integer>112</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>df1c7734ac5c13d649b428dea86137899ae06367628d1407f870940a04c81b48bfe011e8c55b1ba96306dded269a6ed1598439c19de235de6aaa7c0be9fdb7e6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 652 132</string>
+          <string>vstem 295.67 127.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

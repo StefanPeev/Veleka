@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="second" format="2">
+  <advance width="511"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="512" y="645" type="curve" smooth="yes"/>
+      <point x="512" y="633.667"/>
+      <point x="506.667" y="624"/>
+      <point x="502.667" y="618" type="curve"/>
+      <point x="341.667" y="407" type="line" name="n04"/>
+      <point x="273.667" y="407" type="line"/>
+      <point x="390" y="654" type="line"/>
+      <point x="390" y="654"/>
+      <point x="418" y="687" name="n08"/>
+      <point x="456" y="687" type="curve" smooth="yes"/>
+      <point x="493" y="687"/>
+      <point x="512" y="666.667"/>
+    </contour>
+    <contour>
+      <point x="319.667" y="645" type="curve" smooth="yes"/>
+      <point x="319.667" y="633.667"/>
+      <point x="315" y="624"/>
+      <point x="311" y="618" type="curve"/>
+      <point x="149.333" y="407" type="line"/>
+      <point x="81.3333" y="407" type="line"/>
+      <point x="197.667" y="654" type="line"/>
+      <point x="197.667" y="654"/>
+      <point x="225.667" y="687"/>
+      <point x="263.667" y="687" type="curve" smooth="yes"/>
+      <point x="300.667" y="687"/>
+      <point x="319.667" y="666.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>677</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>83</integer>
+        <key>width</key>
+        <integer>413</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>20b7583697fcc3cff7a98dbe3264ae60bb61a23e6f312db3567e0eedf88df90a605748961708ebd90c64b0f228ee37ebb6e4aa638d158a3b4a14d0c5124b868d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 428 -21</string>
+          <string>hstem 687 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

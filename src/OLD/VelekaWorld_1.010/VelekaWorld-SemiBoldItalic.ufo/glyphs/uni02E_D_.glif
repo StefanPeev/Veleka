@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02ED" format="2">
+  <advance width="464"/>
+  <unicode hex="02ED"/>
+  <outline>
+    <contour>
+      <point x="441.667" y="469" type="line" name="n00"/>
+      <point x="427.333" y="393" type="line" name="n01"/>
+      <point x="45.6667" y="393" type="line"/>
+      <point x="61" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="470.333" y="598" type="line" name="n04"/>
+      <point x="456" y="522" type="line" name="n05"/>
+      <point x="74.3333" y="522" type="line"/>
+      <point x="89.6667" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>403</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>522</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>49</integer>
+        <key>width</key>
+        <integer>376</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w464m441.67,469l427.33,393l45.67,393l61,469m470.33,598l456,522l74.33,522l89.67,598</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 393 76</string>
+          <string>hstem 522 76</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

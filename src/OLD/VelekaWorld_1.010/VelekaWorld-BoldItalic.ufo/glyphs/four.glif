@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+  <advance width="598"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="565" y="277" type="line" name="n00"/>
+      <point x="550" y="199" type="line" name="n01"/>
+      <point x="457" y="199" type="line"/>
+      <point x="413" y="-27" type="line" name="n03"/>
+      <point x="277" y="-27" type="line"/>
+      <point x="322" y="199" type="line"/>
+      <point x="21" y="199" type="line"/>
+      <point x="34" y="271" type="line"/>
+      <point x="441" y="687" type="line" name="n08"/>
+      <point x="554" y="687" type="line"/>
+      <point x="474" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="479" type="line"/>
+      <point x="181" y="277" type="line"/>
+      <point x="338" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>202</integer>
+        <key>width</key>
+        <integer>69</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>677</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>21</integer>
+        <key>width</key>
+        <integer>501</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w598m565,277l550,199l457,199l413,-27l277,-27l322,199l21,199l34,271l441,687l554,687l474,277m378,479l181,277l338,277</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -6 -21</string>
+          <string>hstem 199 78</string>
+          <string>hstem 687 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

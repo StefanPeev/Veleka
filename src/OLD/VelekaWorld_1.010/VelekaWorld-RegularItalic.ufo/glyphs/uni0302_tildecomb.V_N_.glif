@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302_tildecomb.VN" format="2">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="484" y="855" type="line"/>
+      <point x="450.61" y="785.835"/>
+      <point x="402.356" y="750" name="hr01"/>
+      <point x="342.612" y="750" type="curve" smooth="yes" name="n03"/>
+      <point x="315.535" y="750"/>
+      <point x="296.72" y="756.614"/>
+      <point x="264.681" y="777.396" type="curve" smooth="yes"/>
+      <point x="256.71" y="782.566"/>
+      <point x="238" y="795" name="hr02"/>
+      <point x="217.121" y="795" type="curve" smooth="yes" name="n09"/>
+      <point x="190.824" y="795"/>
+      <point x="163.529" y="775.844"/>
+      <point x="153" y="750" type="curve" name="hr03"/>
+      <point x="102" y="750" type="line"/>
+      <point x="133.797" y="818.304"/>
+      <point x="183.027" y="855" name="hr04"/>
+      <point x="244.809" y="855" type="curve" smooth="yes" name="n16"/>
+      <point x="267.859" y="855"/>
+      <point x="285.894" y="849.892"/>
+      <point x="315.694" y="830.61" type="curve" smooth="yes"/>
+      <point x="337.882" y="816.253"/>
+      <point x="353.168" y="810" name="hr05"/>
+      <point x="368.227" y="810" type="curve" smooth="yes" name="n22"/>
+      <point x="394.545" y="810"/>
+      <point x="422.61" y="829.497"/>
+      <point x="433" y="855" type="curve" name="hr06"/>
+    </contour>
+    <contour>
+      <point x="410" y="551" type="line" name="n26"/>
+      <point x="340" y="551" type="line"/>
+      <point x="257" y="643" type="line"/>
+      <point x="138" y="551" type="line"/>
+      <point x="67" y="551" type="line"/>
+      <point x="233" y="720" type="line"/>
+      <point x="312" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>750</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>795</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>67</integer>
+        <key>width</key>
+        <integer>417</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>634be96b19345b0140b859e0511696fb56605b612a3479d4fbfb00f353a29b7d7739c8cc3151fae58fa7b1a5bdd67d8d58496e6e15cae07b873710f66b56fad2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 795 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 750 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 795 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 750 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 795 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 750 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr05</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 795 60</string>
+          <string>hstem 572 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr06</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

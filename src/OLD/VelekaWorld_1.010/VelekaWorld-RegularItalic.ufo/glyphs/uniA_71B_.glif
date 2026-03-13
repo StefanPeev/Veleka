@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71B" format="2">
+  <advance width="341"/>
+  <unicode hex="A71B"/>
+  <outline>
+    <contour>
+      <point x="307" y="586" type="line"/>
+      <point x="201" y="586" type="line"/>
+      <point x="201" y="334" type="line" name="n02"/>
+      <point x="141" y="334" type="line" name="n03"/>
+      <point x="141" y="586" type="line"/>
+      <point x="35" y="586" type="line"/>
+      <point x="171" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>334</integer>
+        <key>width</key>
+        <integer>388</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>141</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w341m307,586l201,586l201,334l141,334l141,586l35,586l171,722</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 355 -21</string>
+          <string>vstem 141 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

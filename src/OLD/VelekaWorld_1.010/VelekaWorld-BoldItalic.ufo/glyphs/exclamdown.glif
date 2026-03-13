@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="339"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="278" y="416" type="curve" smooth="yes" name="n00"/>
+      <point x="278" y="372"/>
+      <point x="239" y="339"/>
+      <point x="195" y="339" type="curve" smooth="yes" name="n03"/>
+      <point x="152" y="339"/>
+      <point x="120" y="377"/>
+      <point x="120" y="420" type="curve" smooth="yes" name="n06"/>
+      <point x="120" y="464"/>
+      <point x="153" y="500"/>
+      <point x="196" y="500" type="curve" smooth="yes" name="n09"/>
+      <point x="244" y="500"/>
+      <point x="278" y="461"/>
+    </contour>
+    <contour>
+      <point x="202" y="280" type="line"/>
+      <point x="179" y="-118" type="line" smooth="yes"/>
+      <point x="176" y="-174"/>
+      <point x="126" y="-199" name="n15"/>
+      <point x="81" y="-199" type="curve" smooth="yes"/>
+      <point x="42" y="-199"/>
+      <point x="13" y="-180"/>
+      <point x="13" y="-135" type="curve" smooth="yes"/>
+      <point x="13" y="-110"/>
+      <point x="102" y="141"/>
+      <point x="148" y="280" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>484</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>138</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b721b01f13ed80ce5fc2cfb2a5d80374328971f09e45df4aa28e0a9008a087f68776018c045da002a4473b02735a358c9ec62b5f4443013b8ea7b0bf520ea4b0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -178 -21</string>
+          <string>hstem 339 161</string>
+          <string>vstem 120 158</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
