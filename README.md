@@ -70,4 +70,5 @@ The **Localfonts** project consists of the following fonts:
 Donations
 ---------
 
-If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
+If you apreciate the project, please feel free to support us through [sponsorship button](https://github.com/sponsors/StefanPeev).  
+  
